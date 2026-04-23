@@ -1,0 +1,1122 @@
+[
+  {
+    "id": "5ad3af11604f3c001a3fec63",
+    "pool": "unanswerable",
+    "title": "Normans",
+    "context": "The descendants of Rollo's Vikings and their Frankish wives would replace the Norse religion and Old Norse language with Catholicism (Christianity) and the Gallo-Romance language of the local people, blending their maternal Frankish heritage with Old Norse traditions and customs to synthesize a unique \"Norman\" culture in the north of France. The Norman language was forged by the adoption of the indigenous langue d'o\u00efl branch of Romance by a Norse-speaking ruling class, and it developed into the regional language that survives today.",
+    "question": "What was replace with the Norse religion?",
+    "answer": "Local Christian beliefs"
+  },
+  {
+    "id": "5ad3ae14604f3c001a3fec3a",
+    "pool": "unanswerable",
+    "title": "Normans",
+    "context": "Before Rollo's arrival, its populations did not differ from Picardy or the \u00cele-de-France, which were considered \"Frankish\". Earlier Viking settlers had begun arriving in the 880s, but were divided between colonies in the east (Roumois and Pays de Caux) around the low Seine valley and in the west in the Cotentin Peninsula, and were separated by traditional pagii, where the population remained about the same with almost no foreign settlers. Rollo's contingents who raided and ultimately settled Normandy and parts of the Atlantic coast included Danes, Norwegians, Norse\u2013Gaels, Orkney Vikings, possibly Swedes, and Anglo-Danes from the English Danelaw under Norse control.",
+    "question": "What Viking groups were conquered by Rollo?",
+    "answer": "The eastern and western Viking colonies."
+  },
+  {
+    "id": "5ad3f350604f3c001a3ff8ef",
+    "pool": "unanswerable",
+    "title": "Normans",
+    "context": "When finally Edward the Confessor returned from his father's refuge in 1041, at the invitation of his half-brother Harthacnut, he brought with him a Norman-educated mind. He also brought many Norman counsellors and fighters, some of whom established an English cavalry force. This concept never really took root, but it is a typical example of the attitudes of Edward. He appointed Robert of Jumi\u00e8ges archbishop of Canterbury and made Ralph the Timid earl of Hereford. He invited his brother-in-law Eustace II, Count of Boulogne to his court in 1051, an event which resulted in the greatest of early conflicts between Saxon and Norman and ultimately resulted in the exile of Earl Godwin of Wessex.",
+    "question": "When did Edward the Confessor's son return from his fathers refuge?",
+    "answer": "1041"
+  },
+  {
+    "id": "5ad3f187604f3c001a3ff86f",
+    "pool": "unanswerable",
+    "title": "Normans",
+    "context": "The Normans were in contact with England from an early date. Not only were their original Viking brethren still ravaging the English coasts, they occupied most of the important ports opposite England across the English Channel. This relationship eventually produced closer ties of blood through the marriage of Emma, sister of Duke Richard II of Normandy, and King Ethelred II of England. Because of this, Ethelred fled to Normandy in 1013, when he was forced from his kingdom by Sweyn Forkbeard. His stay in Normandy (until 1016) influenced him and his sons by Emma, who stayed in Normandy after Cnut the Great's conquest of the isle.",
+    "question": "Who married Cnut the Great?",
+    "answer": "Emma"
+  },
+  {
+    "id": "5ad5364c5b96ef001a10ab90",
+    "pool": "unanswerable",
+    "title": "Computational_complexity_theory",
+    "context": "A computational problem can be viewed as an infinite collection of instances together with a solution for every instance. The input string for a computational problem is referred to as a problem instance, and should not be confused with the problem itself. In computational complexity theory, a problem refers to the abstract question to be solved. In contrast, an instance of this problem is a rather concrete utterance, which can serve as the input for a decision problem. For example, consider the problem of primality testing. The instance is a number (e.g. 15) and the solution is \"yes\" if the number is prime and \"no\" otherwise (in this case \"no\"). Stated another way, the instance is a particular input to the problem, and the solution is the output corresponding to the given input.",
+    "question": "What can be viewed as a limited collection of instances together with a solution for every instance?",
+    "answer": "A test suite"
+  },
+  {
+    "id": "5ad5489b5b96ef001a10ac2a",
+    "pool": "unanswerable",
+    "title": "Computational_complexity_theory",
+    "context": "However, some computational problems are easier to analyze in terms of more unusual resources. For example, a non-deterministic Turing machine is a computational model that is allowed to branch out to check many different possibilities at once. The non-deterministic Turing machine has very little to do with how we physically want to compute algorithms, but its branching exactly captures many of the mathematical models we want to analyze, so that non-deterministic time is a very important resource in analyzing computational problems.",
+    "question": "What is harder to analyze in terms of more unusual resources?",
+    "answer": "Inherently sequential computational problems."
+  },
+  {
+    "id": "5ad5344b5b96ef001a10ab88",
+    "pool": "unanswerable",
+    "title": "Computational_complexity_theory",
+    "context": "Closely related fields in theoretical computer science are analysis of algorithms and computability theory. A key distinction between analysis of algorithms and computational complexity theory is that the former is devoted to analyzing the amount of resources needed by a particular algorithm to solve a problem, whereas the latter asks a more general question about all possible algorithms that could be used to solve the same problem. More precisely, it tries to classify problems that can or cannot be solved with appropriately restricted resources. In turn, imposing restrictions on the available resources is what distinguishes computational complexity from computability theory: the latter theory asks what kind of problems can, in principle, be solved algorithmically.",
+    "question": "What is the process of analyzing the amount of resources needed by a particular algorithm to solve a hypothesis?",
+    "answer": "Analysis of algorithms"
+  },
+  {
+    "id": "5ad55ee35b96ef001a10ace4",
+    "pool": "unanswerable",
+    "title": "Computational_complexity_theory",
+    "context": "But bounding the computation time above by some concrete function f(n) often yields complexity classes that depend on the chosen machine model. For instance, the language {xx | x is any binary string} can be solved in linear time on a multi-tape Turing machine, but necessarily requires quadratic time in the model of single-tape Turing machines. If we allow polynomial variations in running time, Cobham-Edmonds thesis states that \"the time complexities in any two reasonable and general models of computation are polynomially related\" (Goldreich 2008, Chapter 1.2). This forms the basis for the complexity class P, which is the set of decision problems solvable by a deterministic Turing machine within polynomial time. The corresponding set of function problems is FP.",
+    "question": "What does not often yield complexity classes that depend on the chosen machine model?",
+    "answer": "Polynomial time bounds"
+  },
+  {
+    "id": "5ad0297e77cf76001a686c3d",
+    "pool": "unanswerable",
+    "title": "Southern_California",
+    "context": "\"Southern California\" is not a formal geographic designation, and definitions of what constitutes southern California vary. Geographically, California's north-south midway point lies at exactly 37\u00b0 9' 58.23\" latitude, around 11 miles (18 km) south of San Jose; however, this does not coincide with popular use of the term. When the state is divided into two areas (northern and southern California), the term \"southern California\" usually refers to the ten southern-most counties of the state. This definition coincides neatly with the county lines at 35\u00b0 47\u2032 28\u2033 north latitude, which form the northern borders of San Luis Obispo, Kern, and San Bernardino counties. Another definition for southern California uses Point Conception and the Tehachapi Mountains as the northern boundary.",
+    "question": "What uses Point Tehachapi and the Conception Mountains as the northern boundary?",
+    "answer": "A specialized academic paper"
+  },
+  {
+    "id": "5ad050c877cf76001a686fc4",
+    "pool": "unanswerable",
+    "title": "Southern_California",
+    "context": "From 2005 to 2014, there were two Major League Soccer teams in Los Angeles \u2014 the LA Galaxy and Chivas USA \u2014 that both played at the StubHub Center and were local rivals. However, Chivas were suspended following the 2014 MLS season, with a second MLS team scheduled to return in 2018.",
+    "question": "When were the LA Galaxy suspended?",
+    "answer": "Following the 2014 MLS season"
+  },
+  {
+    "id": "5ad03d2277cf76001a686ece",
+    "pool": "unanswerable",
+    "title": "Southern_California",
+    "context": "Many faults are able to produce a magnitude 6.7+ earthquake, such as the San Andreas Fault, which can produce a magnitude 8.0 event. Other faults include the San Jacinto Fault, the Puente Hills Fault, and the Elsinore Fault Zone. The USGS has released a California Earthquake forecast which models Earthquake occurrence in California.",
+    "question": "What did the UGSS release?",
+    "answer": "Earthquake hazard maps"
+  },
+  {
+    "id": "5ad0440877cf76001a686f41",
+    "pool": "unanswerable",
+    "title": "Southern_California",
+    "context": "Los Angeles (at 3.7 million people) and San Diego (at 1.3 million people), both in southern California, are the two largest cities in all of California (and two of the eight largest cities in the United States). In southern California there are also twelve cities with more than 200,000 residents and 34 cities over 100,000 in population. Many of southern California's most developed cities lie along or in close proximity to the coast, with the exception of San Bernardino and Riverside.",
+    "question": "What city has a population of 3.3 million people?",
+    "answer": "San Bernardino"
+  },
+  {
+    "id": "5a2c3d73bfd06b001a5aea8c",
+    "pool": "unanswerable",
+    "title": "Sky_(United_Kingdom)",
+    "context": "Virgin Media (re-branded in 2007 from NTL:Telewest) started to offer a high-definition television (HDTV) capable set top box, although from 30 November 2006 until 30 July 2009 it only carried one linear HD channel, BBC HD, after the conclusion of the ITV HD trial. Virgin Media has claimed that other HD channels were \"locked up\" or otherwise withheld from their platform, although Virgin Media did in fact have an option to carry Channel 4 HD in the future. Nonetheless, the linear channels were not offered, Virgin Media instead concentrating on its Video On Demand service to carry a modest selection of HD content. Virgin Media has nevertheless made a number of statements over the years, suggesting that more linear HD channels are on the way.",
+    "question": "What did Virgin Media ignore while offering linear channels?",
+    "answer": "Customer demand for more HD channels"
+  },
+  {
+    "id": "5a2c08aebfd06b001a5ae989",
+    "pool": "unanswerable",
+    "title": "Sky_(United_Kingdom)",
+    "context": "Formed in November 1990 by the equal merger of Sky Television and British Satellite Broadcasting, BSkyB became the UK's largest digital subscription television company. Following BSkyB's 2014 acquisition of Sky Italia and a majority 90.04% interest in Sky Deutschland in November 2014, its holding company British Sky Broadcasting Group plc changed its name to Sky plc. The United Kingdom operations also changed the company name from British Sky Broadcasting Limited to Sky UK Limited, still trading as Sky.",
+    "question": "What company was angry about the merger of Sky Television and British Satellite Broadcasting?",
+    "answer": "Virgin Media"
+  },
+  {
+    "id": "5a2c3a5cbfd06b001a5aea7a",
+    "pool": "unanswerable",
+    "title": "Sky_(United_Kingdom)",
+    "context": "BSkyB utilises the VideoGuard pay-TV scrambling system owned by NDS, a Cisco Systems company. There are tight controls over use of VideoGuard decoders; they are not available as stand-alone DVB CAMs (conditional-access modules). BSkyB has design authority over all digital satellite receivers capable of receiving their service. The receivers, though designed and built by different manufacturers, must conform to the same user interface look-and-feel as all the others. This extends to the Personal video recorder (PVR) offering (branded Sky+).",
+    "question": "Whose digital receivers are only built by one manufacturer?",
+    "answer": "NDS's"
+  },
+  {
+    "id": "5a2c1622bfd06b001a5ae9e1",
+    "pool": "unanswerable",
+    "title": "Sky_(United_Kingdom)",
+    "context": "On 8 February 2007, BSkyB announced its intention to replace its three free-to-air digital terrestrial channels with four subscription channels. It was proposed that these channels would offer a range of content from the BSkyB portfolio including sport (including English Premier League Football), films, entertainment and news. The announcement came a day after Setanta Sports confirmed that it would launch in March as a subscription service on the digital terrestrial platform, and on the same day that NTL's services re-branded as Virgin Media. However, industry sources believe BSkyB will be forced to shelve plans to withdraw its channels from Freeview and replace them with subscription channels, due to possible lost advertising revenue.",
+    "question": "What channel lost advertising revenue due to their plans?",
+    "answer": "BSkyB's free-to-air channels"
+  },
+  {
+    "id": "5a63730568151a001a9222df",
+    "pool": "unanswerable",
+    "title": "Victoria_(Australia)",
+    "context": "Politically, Victoria has 37 seats in the Australian House of Representatives and 12 seats in the Australian Senate. At state level, the Parliament of Victoria consists of the Legislative Assembly (the lower house) and the Legislative Council (the upper house). Victoria is currently governed by the Labor Party, with Daniel Andrews the current Premier. The personal representative of the Queen of Australia in the state is the Governor of Victoria, currently Linda Dessau. Local government is concentrated in 79 municipal districts, including 33 cities, although a number of unincorporated areas still exist, which are administered directly by the state.",
+    "question": "What is the upper level of the Australian House of Representatives called?",
+    "answer": "The Australian Senate"
+  },
+  {
+    "id": "5a6391c268151a001a92238e",
+    "pool": "unanswerable",
+    "title": "Victoria_(Australia)",
+    "context": "Major events also play a big part in tourism in Victoria, particularly cultural tourism and sports tourism. Most of these events are centred on Melbourne, but others occur in regional cities, such as the V8 Supercars and Australian Motorcycle Grand Prix at Phillip Island, the Grand Annual Steeplechase at Warrnambool and the Australian International Airshow at Geelong and numerous local festivals such as the popular Port Fairy Folk Festival, Queenscliff Music Festival, Bells Beach SurfClassic and the Bright Autumn Festival.",
+    "question": "Where is the best Italian in Victoria?",
+    "answer": "Melbourne"
+  },
+  {
+    "id": "5a638bf768151a001a922365",
+    "pool": "unanswerable",
+    "title": "Victoria_(Australia)",
+    "context": "During 2003\u201304, the gross value of Victorian agricultural production increased by 17% to $8.7 billion. This represented 24% of national agricultural production total gross value. As of 2004, an estimated 32,463 farms occupied around 136,000 square kilometres (52,500 sq mi) of Victorian land. This comprises more than 60% of the state's total land surface. Victorian farms range from small horticultural outfits to large-scale livestock and grain productions. A quarter of farmland is used to grow consumable crops.",
+    "question": "What percentage was the increase of agricultural products since 2004?",
+    "answer": "12%"
+  },
+  {
+    "id": "5a63981168151a001a9223b5",
+    "pool": "unanswerable",
+    "title": "Victoria_(Australia)",
+    "context": "Rail transport in Victoria is provided by several private and public railway operators who operate over government-owned lines. Major operators include: Metro Trains Melbourne which runs an extensive, electrified, passenger system throughout Melbourne and suburbs; V/Line which is now owned by the Victorian Government, operates a concentrated service to major regional centres, as well as long distance services on other lines; Pacific National, CFCL Australia which operate freight services; Great Southern Rail which operates The Overland Melbourne\u2014Adelaide; and NSW TrainLink which operates XPTs Melbourne\u2014Sydney.",
+    "question": "Which rail line operates Around the island?",
+    "answer": "Phillip Island Scenic Railway"
+  },
+  {
+    "id": "5ad27081d7d075001a429458",
+    "pool": "unanswerable",
+    "title": "Huguenot",
+    "context": "A number of Huguenots served as mayors in Dublin, Cork, Youghal and Waterford in the 17th and 18th centuries. Numerous signs of Huguenot presence can still be seen with names still in use, and with areas of the main towns and cities named after the people who settled there. Examples include the Huguenot District and French Church Street in Cork City; and D'Olier Street in Dublin, named after a High Sheriff and one of the founders of the Bank of Ireland. A French church in Portarlington dates back to 1696, and was built to serve the significant new Huguenot community in the town. At the time, they constituted the majority of the townspeople.",
+    "question": "What was D'olier's first name?",
+    "answer": "Samuel"
+  },
+  {
+    "id": "5ad24b60d7d075001a428be4",
+    "pool": "unanswerable",
+    "title": "Huguenot",
+    "context": "By 1620 the Huguenots were on the defensive, and the government increasingly applied pressure. A series of three small civil wars known as the Huguenot rebellions broke out, mainly in southwestern France, between 1621 and 1629. revolted against royal authority. The uprising occurred a decade following the death of Henry IV, a Huguenot before converting to Catholicism, who had protected Protestants through the Edict of Nantes. His successor Louis XIII, under the regency of his Italian Catholic mother Marie de' Medici, became more intolerant of Protestantism. The Huguenots respond by establishing independent political and military structures, establishing diplomatic contacts with foreign powers, and openly revolting against central power. The rebellions were implacably suppressed by the French Crown.[citation needed]",
+    "question": "When was the second Huguenot rebellion?",
+    "answer": "1625"
+  },
+  {
+    "id": "5ad2424cd7d075001a42898b",
+    "pool": "unanswerable",
+    "title": "Huguenot",
+    "context": "Some disagree with such double or triple non-French linguistic origins, arguing that for the word to have spread into common use in France, it must have originated in the French language. The \"Hugues hypothesis\" argues that the name was derived by association with Hugues Capet, king of France, who reigned long before the Reformation. He was regarded by the Gallicans and Protestants as a noble man who respected people's dignity and lives. Janet Gray and other supporters of the hypothesis suggest that the name huguenote would be roughly equivalent to little Hugos, or those who want Hugo.",
+    "question": "What religion was Hugues Capet?",
+    "answer": "Roman Catholic"
+  },
+  {
+    "id": "5ad25d49d7d075001a428ef0",
+    "pool": "unanswerable",
+    "title": "Huguenot",
+    "context": "French Huguenots made two attempts to establish a haven in North America. In 1562, naval officer Jean Ribault led an expedition that explored Florida and the present-day Southeastern U.S., and founded the outpost of Charlesfort on Parris Island, South Carolina. The Wars of Religion precluded a return voyage, and the outpost was abandoned. In 1564, Ribault's former lieutenant Ren\u00e9 Goulaine de Laudonni\u00e8re launched a second voyage to build a colony; he established Fort Caroline in what is now Jacksonville, Florida. War at home again precluded a resupply mission, and the colony struggled. In 1565 the Spanish decided to enforce their claim to La Florida, and sent Pedro Men\u00e9ndez de Avil\u00e9s, who established the settlement of St. Augustine near Fort Caroline. Men\u00e9ndez' forces routed the French and executed most of the Protestant captives.",
+    "question": "In what year did the French Huguenots abandon their first North American outpost?",
+    "answer": "1563"
+  },
+  {
+    "id": "5ad3c1ad604f3c001a3fef8e",
+    "pool": "unanswerable",
+    "title": "Steam_engine",
+    "context": "Steam engines can be said to have been the moving force behind the Industrial Revolution and saw widespread commercial use driving machinery in factories, mills and mines; powering pumping stations; and propelling transport appliances such as railway locomotives, ships, steamboats and road vehicles. Their use in agriculture led to an increase in the land available for cultivation. There have at one time or another been steam-powered farm tractors, motorcycles (without much success) and even automobiles as the Stanley Steamer.",
+    "question": "Along with road vehicles, locomotives and ships, on what vehicles were steam engines used during cultivation?",
+    "answer": "Steam-powered tillers"
+  },
+  {
+    "id": "5ad3be46604f3c001a3fef38",
+    "pool": "unanswerable",
+    "title": "Steam_engine",
+    "context": "Using boiling water to produce mechanical motion goes back over 2000 years, but early devices were not practical. The Spanish inventor Jer\u00f3nimo de Ayanz y Beaumont obtained the first patent for a steam engine in 1606. In 1698 Thomas Savery patented a steam pump that used steam in direct contact with the water being pumped. Savery's steam pump used condensing steam to create a vacuum and draw water into a chamber, and then applied pressurized steam to further pump the water. Thomas Newcomen's atmospheric engine was the first commercial true steam engine using a piston, and was used in 1712 for pumping in a mine.",
+    "question": "What was the nationality of Thomas Newcomen?",
+    "answer": "British"
+  },
+  {
+    "id": "5ad3eb61604f3c001a3ff71e",
+    "pool": "unanswerable",
+    "title": "Steam_engine",
+    "context": "A method to lessen the magnitude of this heating and cooling was invented in 1804 by British engineer Arthur Woolf, who patented his Woolf high-pressure compound engine in 1805. In the compound engine, high-pressure steam from the boiler expands in a high-pressure (HP) cylinder and then enters one or more subsequent lower-pressure (LP) cylinders. The complete expansion of the steam now occurs across multiple cylinders and as less expansion now occurs in each cylinder less heat is lost by the steam in each. This reduces the magnitude of cylinder heating and cooling, increasing the efficiency of the engine. By staging the expansion in multiple cylinders, torque variability can be reduced. To derive equal work from lower-pressure steam requires a larger cylinder volume as this steam occupies a greater volume. Therefore, the bore, and often the stroke, are increased in low-pressure cylinders resulting in larger cylinders.",
+    "question": "What needs to be larger to get the same work out of lower pressure cooling?",
+    "answer": "Cooling jackets"
+  },
+  {
+    "id": "5ad3ee11604f3c001a3ff7d7",
+    "pool": "unanswerable",
+    "title": "Steam_engine",
+    "context": "The adoption of compounding was common for industrial units, for road engines and almost universal for marine engines after 1880; it was not universally popular in railway locomotives where it was often perceived as complicated. This is partly due to the harsh railway operating environment and limited space afforded by the loading gauge (particularly in Britain, where compounding was never common and not employed after 1930). However, although never in the majority, it was popular in many other countries.",
+    "question": "After what year was compounding frequently used in railway engines?",
+    "answer": "1890"
+  },
+  {
+    "id": "5ad25f35d7d075001a428f6c",
+    "pool": "unanswerable",
+    "title": "Oxygen",
+    "context": "Hyperbaric (high-pressure) medicine uses special oxygen chambers to increase the partial pressure of O\n2 around the patient and, when needed, the medical staff. Carbon monoxide poisoning, gas gangrene, and decompression sickness (the 'bends') are sometimes treated using these devices. Increased O\n2 concentration in the lungs helps to displace carbon monoxide from the heme group of hemoglobin. Oxygen gas is poisonous to the anaerobic bacteria that cause gas gangrene, so increasing its partial pressure helps kill them. Decompression sickness occurs in divers who decompress too quickly after a dive, resulting in bubbles of inert gas, mostly nitrogen and helium, forming in their blood. Increasing the pressure of O\n2 as soon as possible is part of the treatment.",
+    "question": "What is carbon monoxide poisonous to that can cause gas gangrene?",
+    "answer": "Anaerobic bacteria"
+  },
+  {
+    "id": "5ad266d0d7d075001a4291ee",
+    "pool": "unanswerable",
+    "title": "Oxygen",
+    "context": "Oxygen toxicity to the lungs and central nervous system can also occur in deep scuba diving and surface supplied diving. Prolonged breathing of an air mixture with an O\n2 partial pressure more than 60 kPa can eventually lead to permanent pulmonary fibrosis. Exposure to a O\n2 partial pressures greater than 160 kPa (about 1.6 atm) may lead to convulsions (normally fatal for divers). Acute oxygen toxicity (causing seizures, its most feared effect for divers) can occur by breathing an air mixture with 21% O\n2 at 66 m or more of depth; the same thing can occur by breathing 100% O\n2 at only 6 m.",
+    "question": "What can happen when breathing 26% O2 at 62 m?",
+    "answer": "Muscle twitching"
+  },
+  {
+    "id": "5ad26235d7d075001a429080",
+    "pool": "unanswerable",
+    "title": "Oxygen",
+    "context": "Oxygen is present in the atmosphere in trace quantities in the form of carbon dioxide (CO\n2). The Earth's crustal rock is composed in large part of oxides of silicon (silica SiO\n2, as found in granite and quartz), aluminium (aluminium oxide Al\n2O\n3, in bauxite and corundum), iron (iron(III) oxide Fe\n2O\n3, in hematite and rust), and calcium carbonate (in limestone). The rest of the Earth's crust is also made of oxygen compounds, in particular various complex silicates (in silicate minerals). The Earth's mantle, of much larger mass than the crust, is largely composed of silicates of magnesium and iron.",
+    "question": "What is CO? ",
+    "answer": "Carbon monoxide"
+  },
+  {
+    "id": "5ad2678ad7d075001a42922d",
+    "pool": "unanswerable",
+    "title": "Oxygen",
+    "context": "Highly concentrated sources of oxygen promote rapid combustion. Fire and explosion hazards exist when concentrated oxidants and fuels are brought into close proximity; an ignition event, such as heat or a spark, is needed to trigger combustion. Oxygen is the oxidant, not the fuel, but nevertheless the source of most of the chemical energy released in combustion. Combustion hazards also apply to compounds of oxygen with a high oxidative potential, such as peroxides, chlorates, nitrates, perchlorates, and dichromates because they can donate oxygen to a fire.",
+    "question": "What is oxygen instead of an oxidant?",
+    "answer": "The fuel"
+  },
+  {
+    "id": "5a38b07ca4b263001a8c18a1",
+    "pool": "unanswerable",
+    "title": "1973_oil_crisis",
+    "context": "On October 6, 1973, Syria and Egypt, with support from other Arab nations, launched a surprise attack on Israel, on Yom Kippur. This renewal of hostilities in the Arab\u2013Israeli conflict released the underlying economic pressure on oil prices. At the time, Iran was the world's second-largest oil exporter and a close US ally. Weeks later, the Shah of Iran said in an interview: \"Of course [the price of oil] is going to rise... Certainly! And how!... You've [Western nations] increased the price of the wheat you sell us by 300 percent, and the same for sugar and cement... You buy our crude oil and sell it back to us, refined as petrochemicals, at a hundred times the price you've paid us... It's only fair that, from now on, you should pay more for oil. Let's say ten times more.\"",
+    "question": "What does Syria sell refined oil for to the middle east?",
+    "answer": "$40 per barrel"
+  },
+  {
+    "id": "5a38b468a4b263001a8c18b2",
+    "pool": "unanswerable",
+    "title": "1973_oil_crisis",
+    "context": "Some of the income was dispensed in the form of aid to other underdeveloped nations whose economies had been caught between higher oil prices and lower prices for their own export commodities, amid shrinking Western demand. Much went for arms purchases that exacerbated political tensions, particularly in the Middle East. Saudi Arabia spent over 100 billion dollars in the ensuing decades for helping spread its fundamentalist interpretation of Islam, known as Wahhabism, throughout the world, via religious charities such al-Haramain Foundation, which often also distributed funds to violent Sunni extremist groups such as Al-Qaeda and the Taliban.",
+    "question": "Some of the export commodities that were used for oil purchases helped create tensions where?",
+    "answer": "The Middle East"
+  },
+  {
+    "id": "5a38baa2a4b263001a8c18db",
+    "pool": "unanswerable",
+    "title": "1973_oil_crisis",
+    "context": "Despite being relatively unaffected by the embargo, the UK nonetheless faced an oil crisis of its own - a series of strikes by coal miners and railroad workers over the winter of 1973\u201374 became a major factor in the change of government. Heath asked the British to heat only one room in their houses over the winter. The UK, Germany, Italy, Switzerland and Norway banned flying, driving and boating on Sundays. Sweden rationed gasoline and heating oil. The Netherlands imposed prison sentences for those who used more than their ration of electricity.",
+    "question": "What happened in the UK if you used more than your ration of electricity?",
+    "answer": "Your electricity supply was temporarily cut off."
+  },
+  {
+    "id": "5a38d93da4b263001a8c195d",
+    "pool": "unanswerable",
+    "title": "1973_oil_crisis",
+    "context": "OPEC soon lost its preeminent position, and in 1981, its production was surpassed by that of other countries. Additionally, its own member nations were divided. Saudi Arabia, trying to recover market share, increased production, pushing prices down, shrinking or eliminating profits for high-cost producers. The world price, which had peaked during the 1979 energy crisis at nearly $40 per barrel, decreased during the 1980s to less than $10 per barrel. Adjusted for inflation, oil briefly fell back to pre-1973 levels. This \"sale\" price was a windfall for oil-importing nations, both developing and developed.",
+    "question": "What were two consequences of OPEC pushing down oil prices in 1981?",
+    "answer": "Reduced exploration for new oil reserves and an increase in the production of gas-guzzling vehicles."
+  },
+  {
+    "id": "5ad14573645df0001a2d14b2",
+    "pool": "unanswerable",
+    "title": "European_Union_law",
+    "context": "Proportionality is recognised one of the general principles of European Union law by the European Court of Justice since the 1950s. According to the general principle of proportionality the lawfulness of an action depends on whether it was appropriate and necessary to achieve the objectives legitimately pursued. When there is a choice between several appropriate measures the least onerous must be adopted, and any disadvantage caused must not be disproportionate to the aims pursued. The principle of proportionality is also recognised in Article 5 of the EC Treaty, stating that \"any action by the Community shall not go beyond what is necessary to achieve the objectives of this Treaty\".",
+    "question": "Which measure is adopted when there is a choice between several inappropriate measures?",
+    "answer": "The least inappropriate measure."
+  },
+  {
+    "id": "5ad108f9645df0001a2d0a74",
+    "pool": "unanswerable",
+    "title": "European_Union_law",
+    "context": "European Union law is a body of treaties and legislation, such as Regulations and Directives, which have direct effect or indirect effect on the laws of European Union member states. The three sources of European Union law are primary law, secondary law and supplementary law. The main sources of primary law are the Treaties establishing the European Union. Secondary sources include regulations and directives which are based on the Treaties. The legislature of the European Union is principally composed of the European Parliament and the Council of the European Union, which under the Treaties may establish secondary law to pursue the objective set out in the Treaties.",
+    "question": "What are the three sources of American Union Law?",
+    "answer": "Constitutional Charters, Union Statutes, and Judicial Decisions"
+  },
+  {
+    "id": "5ad10e0f645df0001a2d0b76",
+    "pool": "unanswerable",
+    "title": "European_Union_law",
+    "context": "European Union law is applied by the courts of member states and the Court of Justice of the European Union. Where the laws of member states provide for lesser rights European Union law can be enforced by the courts of member states. In case of European Union law which should have been transposed into the laws of member states, such as Directives, the European Commission can take proceedings against the member state under the Treaty on the Functioning of the European Union. The European Court of Justice is the highest court able to interpret European Union law. Supplementary sources of European Union law include case law by the Court of Justice, international law and general principles of European Union law.",
+    "question": "What are some supplementary sources of American Union law?",
+    "answer": "Case law by the Supreme Court, international law, and general principles of American Union law."
+  },
+  {
+    "id": "5ad14a28645df0001a2d15a0",
+    "pool": "unanswerable",
+    "title": "European_Union_law",
+    "context": "The 2007 Lisbon Treaty explicitly recognised fundamental rights by providing in Article 6(1) that \"The Union recognises the rights, freedoms and principles set out in the Charter of Fundamental Rights of the European Union of 7 December 2000, as adopted at Strasbourg on 12 December 2007, which shall have the same legal value as the Treaties.\" Therefore, the Charter of Fundamental Rights of the European Union has become an integral part of European Union law, codifying the fundamental rights which were previously considered general principles of European Union law. In effect, after the Lisbon Treaty, the Charter and the Convention now co-exist under European Union law, though the former is enforced by the European Court of Justice in relation to European Union measures, and the latter by the European Court of Human Rights in relation to measures by member states.",
+    "question": "What shall not have the same legal value as the Treaties?",
+    "answer": "The Convention"
+  },
+  {
+    "id": "5a0c7b88f5590b0018dab41f",
+    "pool": "unanswerable",
+    "title": "Amazon_rainforest",
+    "context": "The first European to travel the length of the Amazon River was Francisco de Orellana in 1542. The BBC's Unnatural Histories presents evidence that Orellana, rather than exaggerating his claims as previously thought, was correct in his observations that a complex civilization was flourishing along the Amazon in the 1540s. It is believed that the civilization was later devastated by the spread of diseases from Europe, such as smallpox. Since the 1970s, numerous geoglyphs have been discovered on deforested land dating between AD 0\u20131250, furthering claims about Pre-Columbian civilizations. Ondemar Dias is accredited with first discovering the geoglyphs in 1977 and Alceu Ranzi with furthering their discovery after flying over Acre. The BBC's Unnatural Histories presented evidence that the Amazon rainforest, rather than being a pristine wilderness, has been shaped by man for at least 11,000 years through practices such as forest gardening and terra preta.",
+    "question": "Who made exaggerated claims about a complex civilization in the Amazon?",
+    "answer": "Later European scholars"
+  },
+  {
+    "id": "5a0c93b9f5590b0018dab473",
+    "pool": "unanswerable",
+    "title": "Amazon_rainforest",
+    "context": "One computer model of future climate change caused by greenhouse gas emissions shows that the Amazon rainforest could become unsustainable under conditions of severely reduced rainfall and increased temperatures, leading to an almost complete loss of rainforest cover in the basin by 2100. However, simulations of Amazon basin climate change across many different models are not consistent in their estimation of any rainfall response, ranging from weak increases to strong decreases. The result indicates that the rainforest could be threatened though the 21st century by climate change in addition to deforestation.",
+    "question": "A decrease in greenhouse gases may lead to a complete loss of what?",
+    "answer": "rainforest cover"
+  },
+  {
+    "id": "5a0c99fcf5590b0018dab4a8",
+    "pool": "unanswerable",
+    "title": "Amazon_rainforest",
+    "context": "In 2010 the Amazon rainforest experienced another severe drought, in some ways more extreme than the 2005 drought. The affected region was approximate 1,160,000 square miles (3,000,000 km2) of rainforest, compared to 734,000 square miles (1,900,000 km2) in 2005. The 2010 drought had three epicenters where vegetation died off, whereas in 2005 the drought was focused on the southwestern part. The findings were published in the journal Science. In a typical year the Amazon absorbs 1.5 gigatons of carbon dioxide; during 2005 instead 5 gigatons were released and in 2010 8 gigatons were released.",
+    "question": "In 2010 the force absorbed 8 Gt of what",
+    "answer": "carbon dioxide"
+  },
+  {
+    "id": "5a0c6a7ef5590b0018dab3f8",
+    "pool": "unanswerable",
+    "title": "Amazon_rainforest",
+    "context": "During the mid-Eocene, it is believed that the drainage basin of the Amazon was split along the middle of the continent by the Purus Arch. Water on the eastern side flowed toward the Atlantic, while to the west water flowed toward the Pacific across the Amazonas Basin. As the Andes Mountains rose, however, a large basin was created that enclosed a lake; now known as the Solim\u00f5es Basin. Within the last 5\u201310 million years, this accumulating water broke through the Purus Arch, joining the easterly flow toward the Atlantic.",
+    "question": "What split the Amazon drainage basin along the northern part of the continent?",
+    "answer": "The Purus Arch"
+  },
+  {
+    "id": "5a837038e60761001a2eb6f4",
+    "pool": "unanswerable",
+    "title": "Ctenophora",
+    "context": "It is uncertain how ctenophores control their buoyancy, but experiments have shown that some species rely on osmotic pressure to adapt to water of different densities. Their body fluids are normally as concentrated as seawater. If they enter less dense brackish water, the ciliary rosettes in the body cavity may pump this into the mesoglea to increase its bulk and decrease its density, to avoid sinking. Conversely if they move from brackish to full-strength seawater, the rosettes may pump water out of the mesoglea to reduce its volume and increase its density.",
+    "question": "What do mesoglea adapt to when relying on brackish water?",
+    "answer": "Lower water density"
+  },
+  {
+    "id": "5a83894de60761001a2eb78d",
+    "pool": "unanswerable",
+    "title": "Ctenophora",
+    "context": "The Beroida, also known as Nuda, have no feeding appendages, but their large pharynx, just inside the large mouth and filling most of the saclike body, bears \"macrocilia\" at the oral end. These fused bundles of several thousand large cilia are able to \"bite\" off pieces of prey that are too large to swallow whole \u2013 almost always other ctenophores. In front of the field of macrocilia, on the mouth \"lips\" in some species of Beroe, is a pair of narrow strips of adhesive epithelial cells on the stomach wall that \"zip\" the mouth shut when the animal is not feeding, by forming intercellular connections with the opposite adhesive strip. This tight closure streamlines the front of the animal when it is pursuing prey.",
+    "question": "What does the large pharynx do in the Beroe when its not feeding?",
+    "answer": "Processes ingested prey."
+  },
+  {
+    "id": "5a838b42e60761001a2eb7a8",
+    "pool": "unanswerable",
+    "title": "Ctenophora",
+    "context": "Most Platyctenida have oval bodies that are flattened in the oral-aboral direction, with a pair of tentilla-bearing tentacles on the aboral surface. They cling to and creep on surfaces by everting the pharynx and using it as a muscular \"foot\". All but one of the known platyctenid species lack comb-rows. Platyctenids are usually cryptically colored, live on rocks, algae, or the body surfaces of other invertebrates, and are often revealed by their long tentacles with many sidebranches, seen streaming off the back of the ctenophore into the current.",
+    "question": "What body shape does the Aboral have?",
+    "answer": "Oval"
+  },
+  {
+    "id": "5a8371dfe60761001a2eb725",
+    "pool": "unanswerable",
+    "title": "Ctenophora",
+    "context": "The largest single sensory feature is the aboral organ (at the opposite end from the mouth). Its main component is a statocyst, a balance sensor consisting of a statolith, a solid particle supported on four bundles of cilia, called \"balancers\", that sense its orientation. The statocyst is protected by a transparent dome made of long, immobile cilia. A ctenophore does not automatically try to keep the statolith resting equally on all the balancers. Instead its response is determined by the animal's \"mood\", in other words the overall state of the nervous system. For example, if a ctenophore with trailing tentacles captures prey, it will often put some comb rows into reverse, spinning the mouth towards the prey.",
+    "question": "What is the largest feature in the mouth?",
+    "answer": "The pharynx"
+  },
+  {
+    "id": "5a7b456121c2de001afe9e2c",
+    "pool": "unanswerable",
+    "title": "Fresno,_California",
+    "context": "Fresno is the largest U.S. city not directly linked to an Interstate highway. When the Interstate Highway System was created in the 1950s, the decision was made to build what is now Interstate 5 on the west side of the Central Valley, and thus bypass many of the population centers in the region, instead of upgrading what is now State Route 99. Due to rapidly raising population and traffic in cities along SR 99, as well as the desirability of Federal funding, much discussion has been made to upgrade it to interstate standards and eventually incorporate it into the interstate system, most likely as Interstate 9. Major improvements to signage, lane width, median separation, vertical clearance, and other concerns are currently underway.",
+    "question": "What was rapidly increasing by interstate 5?",
+    "answer": "Traffic"
+  },
+  {
+    "id": "5a7b3f0f21c2de001afe9e05",
+    "pool": "unanswerable",
+    "title": "Fresno,_California",
+    "context": "There were 158,349 households, of which 68,511 (43.3%) had children under the age of 18 living in them, 69,284 (43.8%) were opposite-sex married couples living together, 30,547 (19.3%) had a female householder with no husband present, 11,698 (7.4%) had a male householder with no wife present. There were 12,843 (8.1%) unmarried opposite-sex partnerships, and 1,388 (0.9%) same-sex married couples or partnerships. 35,064 households (22.1%) were made up of individuals and 12,344 (7.8%) had someone living alone who was 65 years of age or older. The average household size was 3.07. There were 111,529 families (70.4% of all households); the average family size was 3.62.",
+    "question": "How many same-sex partnerships without kids were there?",
+    "answer": "790"
+  },
+  {
+    "id": "5a7b325021c2de001afe9da9",
+    "pool": "unanswerable",
+    "title": "Fresno,_California",
+    "context": "The \"West Side\" of Fresno, also often called \"Southwest Fresno\", is one of the oldest neighborhoods in the city. The neighborhood lies southwest of the 99 freeway (which divides it from Downtown Fresno), west of the 41 freeway and south of Nielsen Ave (or the newly constructed 180 Freeway), and extends to the city limits to the west and south. The neighborhood is traditionally considered to be the center of Fresno's African-American community. It is culturally diverse and also includes significant Mexican-American and Asian-American (principally Hmong or Laotian) populations.",
+    "question": "What divides Downtown Fresno?",
+    "answer": "Nielsen Ave"
+  },
+  {
+    "id": "5a7b485921c2de001afe9e54",
+    "pool": "unanswerable",
+    "title": "Fresno,_California",
+    "context": "Passenger rail service is provided by Amtrak San Joaquins. The main passenger rail station is the recently renovated historic Santa Fe Railroad Depot in Downtown Fresno. The Bakersfield-Stockton mainlines of the Burlington Northern Santa Fe Railway and Union Pacific Railroad railroads cross in Fresno, and both railroads maintain railyards within the city; the San Joaquin Valley Railroad also operates former Southern Pacific branchlines heading west and south out of the city. The city of Fresno is planned to serve the future California High Speed Rail.",
+    "question": "Who owns the California High Speed Rail?",
+    "answer": "The City of Fresno"
+  },
+  {
+    "id": "5a6696d0f038b7001ab0c023",
+    "pool": "unanswerable",
+    "title": "Packet_switching",
+    "context": "AUSTPAC was an Australian public X.25 network operated by Telstra. Started by Telecom Australia in the early 1980s, AUSTPAC was Australia's first public packet-switched data network, supporting applications such as on-line betting, financial applications \u2014 the Australian Tax Office made use of AUSTPAC \u2014 and remote terminal access to academic institutions, who maintained their connections to AUSTPAC up until the mid-late 1990s in some cases. Access can be via a dial-up terminal to a PAD, or, by linking a permanent X.25 node to the network.[citation needed]",
+    "question": "What was the Australian public X.75 network operated by Telstra?",
+    "answer": "AUSTPAC"
+  },
+  {
+    "id": "5a667457846392001a1e1c2f",
+    "pool": "unanswerable",
+    "title": "Packet_switching",
+    "context": "Starting in the late 1950s, American computer scientist Paul Baran developed the concept Distributed Adaptive Message Block Switching with the goal to provide a fault-tolerant, efficient routing method for telecommunication messages as part of a research program at the RAND Corporation, funded by the US Department of Defense. This concept contrasted and contradicted the theretofore established principles of pre-allocation of network bandwidth, largely fortified by the development of telecommunications in the Bell System. The new concept found little resonance among network implementers until the independent work of Donald Davies at the National Physical Laboratory (United Kingdom) (NPL) in the late 1960s. Davies is credited with coining the modern name packet switching and inspiring numerous packet switching networks in Europe in the decade following, including the incorporation of the concept in the early ARPANET in the United States.",
+    "question": "What organization did Paul Baran work with in the United Kingdom?",
+    "answer": "National Physical Laboratory (NPL)"
+  },
+  {
+    "id": "5a55242b134fea001a0e1981",
+    "pool": "unanswerable",
+    "title": "Packet_switching",
+    "context": "Internet2 is a not-for-profit United States computer networking consortium led by members from the research and education communities, industry, and government. The Internet2 community, in partnership with Qwest, built the first Internet2 Network, called Abilene, in 1998 and was a prime investor in the National LambdaRail (NLR) project. In 2006, Internet2 announced a partnership with Level 3 Communications to launch a brand new nationwide network, boosting its capacity from 10 Gbit/s to 100 Gbit/s. In October, 2007, Internet2 officially retired Abilene and now refers to its new, higher capacity network as the Internet2 Network.",
+    "question": "Abilene referred to what? ",
+    "answer": "A telecommunications company."
+  },
+  {
+    "id": "5a55106f134fea001a0e18b2",
+    "pool": "unanswerable",
+    "title": "Packet_switching",
+    "context": "AppleTalk was a proprietary suite of networking protocols developed by Apple Inc. in 1985 for Apple Macintosh computers. It was the primary protocol used by Apple devices through the 1980s and 90s. AppleTalk included features that allowed local area networks to be established ad hoc without the requirement for a centralized router or server. The AppleTalk system automatically assigned addresses, updated the distributed namespace, and configured any required inter-network routing. It was a plug-n-play system.",
+    "question": "Could only Apple devices utilize this suite? ",
+    "answer": "Yes, its proprietary nature restricted its use to Apple devices."
+  },
+  {
+    "id": "5a2ebb5fa83784001a7d2449",
+    "pool": "unanswerable",
+    "title": "Black_Death",
+    "context": "The plague struck various countries in the Middle East during the pandemic, leading to serious depopulation and permanent change in both economic and social structures. As it spread to western Europe, the disease entered the region from southern Russia also. By autumn 1347, the plague reached Alexandria in Egypt, probably through the port's trade with Constantinople, and ports on the Black Sea. During 1347, the disease travelled eastward to Gaza, and north along the eastern coast to cities in Lebanon, Syria and Palestine, including Ashkelon, Acre, Jerusalem, Sidon, Damascus, Homs, and Aleppo. In 1348\u201349, the disease reached Antioch. The city's residents fled to the north, most of them dying during the journey, but the infection had been spread to the people of Asia Minor.[citation needed]",
+    "question": "In what years did the infection spread to the people of Asia Minor?",
+    "answer": "1348-49"
+  },
+  {
+    "id": "5a2ec82fa83784001a7d246d",
+    "pool": "unanswerable",
+    "title": "Black_Death",
+    "context": "The historian Francis Aidan Gasquet wrote about the 'Great Pestilence' in 1893 and suggested that \"it would appear to be some form of the ordinary Eastern or bubonic plague\". He was able to adopt the epidemiology of the bubonic plague for the Black Death for the second edition in 1908, implicating rats and fleas in the process, and his interpretation was widely accepted for other ancient and medieval epidemics, such as the Justinian plague that was prevalent in the Eastern Roman Empire from 541 to 700 CE.",
+    "question": "When was Francis Aidan Gasquet born?",
+    "answer": "1865"
+  },
+  {
+    "id": "5a2ecd6da83784001a7d24ab",
+    "pool": "unanswerable",
+    "title": "Black_Death",
+    "context": "It is recognised that an epidemiological account of the plague is as important as an identification of symptoms, but researchers are hampered by the lack of reliable statistics from this period. Most work has been done on the spread of the plague in England, and even estimates of overall population at the start vary by over 100% as no census was undertaken between the time of publication of the Domesday Book and the year 1377. Estimates of plague victims are usually extrapolated from figures from the clergy.",
+    "question": "What is the Domesday Book about?",
+    "answer": "A record of England's population."
+  },
+  {
+    "id": "5a2ed42fa83784001a7d24fb",
+    "pool": "unanswerable",
+    "title": "Black_Death",
+    "context": "In the first half of the 17th century, a plague claimed some 1.7 million victims in Italy, or about 14% of the population. In 1656, the plague killed about half of Naples' 300,000 inhabitants. More than 1.25 million deaths resulted from the extreme incidence of plague in 17th-century Spain. The plague of 1649 probably reduced the population of Seville by half. In 1709\u201313, a plague epidemic that followed the Great Northern War (1700\u201321, Sweden v. Russia and allies) killed about 100,000 in Sweden, and 300,000 in Prussia. The plague killed two-thirds of the inhabitants of Helsinki, and claimed a third of Stockholm's population. Europe's last major epidemic occurred in 1720 in Marseille.",
+    "question": "In what country is Marseille?",
+    "answer": "France"
+  },
+  {
+    "id": "5a58e3833e1742001a15ce83",
+    "pool": "unanswerable",
+    "title": "Geology",
+    "context": "The following four timelines show the geologic time scale. The first shows the entire time from the formation of the Earth to the present, but this compresses the most recent eon. Therefore, the second scale shows the most recent eon with an expanded scale. The second scale compresses the most recent era, so the most recent era is expanded in the third scale. Since the Quaternary is a very short period with short epochs, it is further expanded in the fourth scale. The second, third, and fourth timelines are therefore each subsections of their preceding timeline as indicated by asterisks. The Holocene (the latest epoch) is too small to be shown clearly on the third timeline on the right, another reason for expanding the fourth scale. The Pleistocene (P) epoch. Q stands for the Quaternary period.",
+    "question": "Which timeline is the most accurate?",
+    "answer": "The fourth timeline."
+  },
+  {
+    "id": "5a5915cd3e1742001a15cf78",
+    "pool": "unanswerable",
+    "title": "Geology",
+    "context": "Geologists use a number of field, laboratory, and numerical modeling methods to decipher Earth history and understand the processes that occur on and inside the Earth. In typical geological investigations, geologists use primary information related to petrology (the study of rocks), stratigraphy (the study of sedimentary layers), and structural geology (the study of positions of rock units and their deformation). In many cases, geologists also study modern soils, rivers, landscapes, and glaciers; investigate past and current life and biogeochemical pathways, and use geophysical methods to investigate the subsurface.",
+    "question": "What ancient property do geologists study?",
+    "answer": "Ancient climates"
+  },
+  {
+    "id": "5a592d703e1742001a15cfed",
+    "pool": "unanswerable",
+    "title": "Geology",
+    "context": "James Hutton is often viewed as the first modern geologist. In 1785 he presented a paper entitled Theory of the Earth to the Royal Society of Edinburgh. In his paper, he explained his theory that the Earth must be much older than had previously been supposed in order to allow enough time for mountains to be eroded and for sediments to form new rocks at the bottom of the sea, which in turn were raised up to become dry land. Hutton published a two-volume version of his ideas in 1795 (Vol. 1, Vol. 2).",
+    "question": "Who was the first geologist?",
+    "answer": "James Hutton"
+  },
+  {
+    "id": "5a5918ff3e1742001a15cf82",
+    "pool": "unanswerable",
+    "title": "Geology",
+    "context": "In addition to identifying rocks in the field, petrologists identify rock samples in the laboratory. Two of the primary methods for identifying rocks in the laboratory are through optical microscopy and by using an electron microprobe. In an optical mineralogy analysis, thin sections of rock samples are analyzed through a petrographic microscope, where the minerals can be identified through their different properties in plane-polarized and cross-polarized light, including their birefringence, pleochroism, twinning, and interference properties with a conoscopic lens. In the electron microprobe, individual locations are analyzed for their exact chemical compositions and variation in composition within individual crystals. Stable and radioactive isotope studies provide insight into the geochemical evolution of rock units.",
+    "question": "What lens is used to identify chemical composition?",
+    "answer": "Conoscopic lens"
+  },
+  {
+    "id": "5a6ce7444eec6b001a80a6b1",
+    "pool": "unanswerable",
+    "title": "Pharmacy",
+    "context": "While most Internet pharmacies sell prescription drugs and require a valid prescription, some Internet pharmacies sell prescription drugs without requiring a prescription. Many customers order drugs from such pharmacies to avoid the \"inconvenience\" of visiting a doctor or to obtain medications which their doctors were unwilling to prescribe. However, this practice has been criticized as potentially dangerous, especially by those who feel that only doctors can reliably assess contraindications, risk/benefit ratios, and an individual's overall suitability for use of a medication. There also have been reports of such pharmacies dispensing substandard products.",
+    "question": "What practice do all internet pharmacies avoid?",
+    "answer": "In-person medical assessment"
+  },
+  {
+    "id": "5a6ce2ec4eec6b001a80a676",
+    "pool": "unanswerable",
+    "title": "Pharmacy",
+    "context": "Hospital pharmacies can often be found within the premises of the hospital. Hospital pharmacies usually stock a larger range of medications, including more specialized medications, than would be feasible in the community setting. Most hospital medications are unit-dose, or a single dose of medicine. Hospital pharmacists and trained pharmacy technicians compound sterile products for patients including total parenteral nutrition (TPN), and other medications given intravenously. This is a complex process that requires adequate training of personnel, quality assurance of products, and adequate facilities. Several hospital pharmacies have decided to outsource high risk preparations and some other compounding functions to companies who specialize in compounding. The high cost of medications and drug-related technology, combined with the potential impact of medications and pharmacy services on patient-care outcomes and patient safety, make it imperative that hospital pharmacies perform at the highest level possible.",
+    "question": "Where are no hospital pharmacies located?",
+    "answer": "Community pharmacies"
+  },
+  {
+    "id": "5a6ce1054eec6b001a80a665",
+    "pool": "unanswerable",
+    "title": "Pharmacy",
+    "context": "In most countries, the dispensary is subject to pharmacy legislation; with requirements for storage conditions, compulsory texts, equipment, etc., specified in legislation. Where it was once the case that pharmacists stayed within the dispensary compounding/dispensing medications, there has been an increasing trend towards the use of trained pharmacy technicians while the pharmacist spends more time communicating with patients. Pharmacy technicians are now more dependent upon automation to assist them in their new role dealing with patients' prescriptions and patient safety issues.",
+    "question": "What do pharmacy technicians depend on less and less?",
+    "answer": "Manual compounding"
+  },
+  {
+    "id": "5a6cefd64eec6b001a80a706",
+    "pool": "unanswerable",
+    "title": "Pharmacy",
+    "context": "The two symbols most commonly associated with pharmacy in English-speaking countries are the mortar and pestle and the \u211e (recipere) character, which is often written as \"Rx\" in typed text. The show globe was also used until the early 20th century. Pharmacy organizations often use other symbols, such as the Bowl of Hygieia which is often used in the Netherlands, conical measures, and caduceuses in their logos. Other symbols are common in different countries: the green Greek cross in France, Argentina, the United Kingdom, Belgium, Ireland, Italy, Spain, and India, the increasingly rare Gaper in the Netherlands, and a red stylized letter A in Germany and Austria (from Apotheke, the German word for pharmacy, from the same Greek root as the English word 'apothecary').",
+    "question": "What are the two symbols that signify pharmacy in non-English-speaking countries?",
+    "answer": "The green Greek cross and a red stylized letter A."
+  },
+  {
+    "id": "5a66938ff038b7001ab0bffc",
+    "pool": "unanswerable",
+    "title": "Civil_disobedience",
+    "context": "Some civil disobedience defendants choose to make a defiant speech, or a speech explaining their actions, in allocution. In U.S. v. Burgos-Andujar, a defendant who was involved in a movement to stop military exercises by trespassing on U.S. Navy property argued to the court in allocution that \"the ones who are violating the greater law are the members of the Navy\". As a result, the judge increased her sentence from 40 to 60 days. This action was upheld because, according to the U.S. Court of Appeals for the First Circuit, her statement suggested a lack of remorse, an attempt to avoid responsibility for her actions, and even a likelihood of repeating her illegal actions. Some of the other allocution speeches given by the protesters complained about mistreatment from government officials.",
+    "question": "In the US v. Burgos-Andujar, why was a member of the Navy's sentence increased?",
+    "answer": "For their involvement in illegal military exercises."
+  },
+  {
+    "id": "5a665002846392001a1e1ab3",
+    "pool": "unanswerable",
+    "title": "Civil_disobedience",
+    "context": "Civil disobedience is usually defined as pertaining to a citizen's relation to the state and its laws, as distinguished from a constitutional impasse in which two public agencies, especially two equally sovereign branches of government, conflict. For instance, if the head of government of a country were to refuse to enforce a decision of that country's highest court, it would not be civil disobedience, since the head of government would be acting in her or his capacity as public official rather than private citizen.",
+    "question": "What two public agencies conflict under the defnintion of civil disobedience?",
+    "answer": "Head of government and the highest court"
+  },
+  {
+    "id": "5a668b33f038b7001ab0bf94",
+    "pool": "unanswerable",
+    "title": "Civil_disobedience",
+    "context": "When the Committee for Non-Violent Action sponsored a protest in August 1957, at the Camp Mercury nuclear test site near Las Vegas, Nevada, 13 of the protesters attempted to enter the test site knowing that they faced arrest. At a pre-arranged announced time, one at a time they stepped across the \"line\" and were immediately arrested. They were put on a bus and taken to the Nye County seat of Tonopah, Nevada, and arraigned for trial before the local Justice of the Peace, that afternoon. A well known civil rights attorney, Francis Heisler, had volunteered to defend the arrested persons, advising them to plead \"nolo contendere\", as an alternative to pleading either guilty or not-guilty. The arrested persons were found \"guilty,\" nevertheless, and given suspended sentences, conditional on their not reentering the test site grounds.[citation needed]",
+    "question": "What sentence was Francis Heisler given when she was found guilty?",
+    "answer": "A suspended sentence, conditional on not reentering the test site grounds."
+  },
+  {
+    "id": "5a668ef8f038b7001ab0bfdf",
+    "pool": "unanswerable",
+    "title": "Civil_disobedience",
+    "context": "Sometimes the prosecution proposes a plea bargain to civil disobedients, as in the case of the Camden 28, in which the defendants were offered an opportunity to plead guilty to one misdemeanor count and receive no jail time. In some mass arrest situations, the activists decide to use solidarity tactics to secure the same plea bargain for everyone. But some activists have opted to enter a blind plea, pleading guilty without any plea agreement in place. Mohandas Gandhi pleaded guilty and told the court, \"I am here to . . . submit cheerfully to the highest penalty that can be inflicted upon me for what in law is a deliberate crime and what appears to me to be the highest duty of a citizen.\"",
+    "question": "How did the Camden 28 decide to submit themselves to the court after pleading guilty?",
+    "answer": "Through solidarity tactics."
+  },
+  {
+    "id": "5a25e0a9ef59cd001a623d01",
+    "pool": "unanswerable",
+    "title": "Construction",
+    "context": "The project must adhere to zoning and building code requirements. Constructing a project that fails to adhere to codes does not benefit the owner. Some legal requirements come from malum in se considerations, or the desire to prevent things that are indisputably bad \u2013 bridge collapses or explosions. Other legal requirements come from malum prohibitum considerations, or things that are a matter of custom or expectation, such as isolating businesses to a business district and residences to a residential district. An attorney may seek changes or exemptions in the law that governs the land where the building will be built, either by arguing that a rule is inapplicable (the bridge design will not cause a collapse), or that the custom is no longer needed (acceptance of live-work spaces has grown in the community).",
+    "question": "Who doesn't benefit when a project doesn't follow a residential district?",
+    "answer": "Neighbors"
+  },
+  {
+    "id": "5a25b230ef59cd001a623c4e",
+    "pool": "unanswerable",
+    "title": "Construction",
+    "context": "The Standard Industrial Classification and the newer North American Industry Classification System have a classification system for companies that perform or otherwise engage in construction. To recognize the differences of companies in this sector, it is divided into three subsectors: building construction, heavy and civil engineering construction, and specialty trade contractors. There are also categories for construction service firms (e.g., engineering, architecture) and construction managers (firms engaged in managing construction projects without assuming direct financial responsibility for completion of the construction project).",
+    "question": "What systems classify trade contractors?",
+    "answer": "The Occupational Trade Classification and the Construction Specialty Index."
+  },
+  {
+    "id": "5a25bb0bef59cd001a623cb5",
+    "pool": "unanswerable",
+    "title": "Construction",
+    "context": "Residential construction practices, technologies, and resources must conform to local building authority regulations and codes of practice. Materials readily available in the area generally dictate the construction materials used (e.g. brick versus stone, versus timber). Cost of construction on a per square meter (or per square foot) basis for houses can vary dramatically based on site conditions, local regulations, economies of scale (custom designed homes are often more expensive to build) and the availability of skilled tradespeople. As residential construction (as well as all other types of construction) can generate a lot of waste, careful planning again is needed here.",
+    "question": "What effect do technologies and resources generate?",
+    "answer": "Influence construction methods and material selection."
+  },
+  {
+    "id": "5a25ab1bef59cd001a623c32",
+    "pool": "unanswerable",
+    "title": "Construction",
+    "context": "In general, there are three sectors of construction: buildings, infrastructure and industrial. Building construction is usually further divided into residential and non-residential (commercial/institutional). Infrastructure is often called heavy/highway, heavy civil or heavy engineering. It includes large public works, dams, bridges, highways, water/wastewater and utility distribution. Industrial includes refineries, process chemical, power generation, mills and manufacturing plants. There are other ways to break the industry into sectors or markets.",
+    "question": "What three sectors of public works are there?",
+    "answer": "Dams, bridges, and highways"
+  },
+  {
+    "id": "5a67e5278476ee001a58a764",
+    "pool": "unanswerable",
+    "title": "Private_school",
+    "context": "As of 2012, quality private schools in the United States charged substantial tuition, close to $40,000 annually for day schools in New York City, and nearly $50,000 for boarding schools. However, tuition did not cover operating expenses, particularly at boarding schools. The leading schools such as the Groton School had substantial endowments running to hundreds of millions of dollars supplemented by fundraising drives. Boarding schools with a reputation for quality in the United States have a student body drawn from throughout the country, indeed the globe, and a list of applicants which far exceeds their capacity.",
+    "question": "What were the operating expenses of the Groton School in 2012?",
+    "answer": "$75 million"
+  },
+  {
+    "id": "5a67986af038b7001ab0c313",
+    "pool": "unanswerable",
+    "title": "Private_school",
+    "context": "Erg\u00e4nzungsschulen are secondary or post-secondary (non-tertiary) schools, which are run by private individuals, private organizations or rarely, religious groups and offer a type of education which is not available at public schools. Most of these schools are vocational schools. However, these vocational schools are not part of the German dual education system. Erg\u00e4nzungsschulen have the freedom to operate outside of government regulation and are funded in whole by charging their students tuition fees.",
+    "question": "How are public schools funded?",
+    "answer": "Through government funding."
+  },
+  {
+    "id": "5a67b94bf038b7001ab0c446",
+    "pool": "unanswerable",
+    "title": "Private_school",
+    "context": "In Sweden, pupils are free to choose a private school and the private school gets paid the same amount as municipal schools. Over 10% of Swedish pupils were enrolled in private schools in 2008. Sweden is internationally known for this innovative school voucher model that provides Swedish pupils with the opportunity to choose the school they prefer. For instance, the biggest school chain, Kunskapsskolan (\u201cThe Knowledge School\u201d), offers 30 schools and a web-based environment, has 700 employees and teaches nearly 10,000 pupils. The Swedish system has been recommended to Barack Obama.",
+    "question": "What is the Swedish word for school voucher?",
+    "answer": "Skolcheck"
+  },
+  {
+    "id": "5a67e29d8476ee001a58a75a",
+    "pool": "unanswerable",
+    "title": "Private_school",
+    "context": "Private schooling in the United States has been debated by educators, lawmakers and parents, since the beginnings of compulsory education in Massachusetts in 1852. The Supreme Court precedent appears to favor educational choice, so long as states may set standards for educational accomplishment. Some of the most relevant Supreme Court case law on this is as follows: Runyon v. McCrary, 427 U.S. 160 (1976); Wisconsin v. Yoder, 406 U.S. 205 (1972); Pierce v. Society of Sisters, 268 U.S. 510 (1925); Meyer v. Nebraska, 262 U.S. 390 (1923).",
+    "question": "What other person was involved in the case with Runyon in 1972?",
+    "answer": "Yoder"
+  },
+  {
+    "id": "5a82325231013a001a3352bd",
+    "pool": "unanswerable",
+    "title": "Harvard_University",
+    "context": "For the 2012\u201313 school year annual tuition was $38,000, with a total cost of attendance of $57,000. Beginning 2007, families with incomes below $60,000 pay nothing for their children to attend, including room and board. Families with incomes between $60,000 to $80,000 pay only a few thousand dollars per year, and families earning between $120,000 and $180,000 pay no more than 10% of their annual incomes. In 2009, Harvard offered grants totaling $414 million across all eleven divisions;[further explanation needed] $340 million came from institutional funds, $35 million from federal support, and $39 million from other outside support. Grants total 88% of Harvard's aid for undergraduate students, with aid also provided by loans (8%) and work-study (4%).",
+    "question": "How many student dorms were there in use at Harvard in 2012?",
+    "answer": "Eleven"
+  },
+  {
+    "id": "5a8205d131013a001a3350f9",
+    "pool": "unanswerable",
+    "title": "Harvard_University",
+    "context": "Charles W. Eliot, president 1869\u20131909, eliminated the favored position of Christianity from the curriculum while opening it to student self-direction. While Eliot was the most crucial figure in the secularization of American higher education, he was motivated not by a desire to secularize education, but by Transcendentalist Unitarian convictions. Derived from William Ellery Channing and Ralph Waldo Emerson, these convictions were focused on the dignity and worth of human nature, the right and ability of each person to perceive truth, and the indwelling God in each person.",
+    "question": "Channing was the most crucial figure to achieve what in US universities?",
+    "answer": "Secularization of American higher education"
+  },
+  {
+    "id": "5a81f0f031013a001a334faa",
+    "pool": "unanswerable",
+    "title": "Harvard_University",
+    "context": "The University is organized into eleven separate academic units\u2014ten faculties and the Radcliffe Institute for Advanced Study\u2014with campuses throughout the Boston metropolitan area: its 209-acre (85 ha) main campus is centered on Harvard Yard in Cambridge, approximately 3 miles (5 km) northwest of Boston; the business school and athletics facilities, including Harvard Stadium, are located across the Charles River in the Allston neighborhood of Boston and the medical, dental, and public health schools are in the Longwood Medical Area. Harvard's $37.6 billion financial endowment is the largest of any academic institution.",
+    "question": "Where is the Longwood Medical area located?",
+    "answer": "Boston"
+  },
+  {
+    "id": "5a820ebf31013a001a33516e",
+    "pool": "unanswerable",
+    "title": "Harvard_University",
+    "context": "The Harvard Business School and many of the university's athletics facilities, including Harvard Stadium, are located on a 358-acre (145 ha) campus opposite the Cambridge campus in Allston. The John W. Weeks Bridge is a pedestrian bridge over the Charles River connecting both campuses. The Harvard Medical School, Harvard School of Dental Medicine, and the Harvard School of Public Health are located on a 21-acre (8.5 ha) campus in the Longwood Medical and Academic Area approximately 3.3 miles (5.3 km) southwest of downtown Boston and 3.3 miles (5.3 km) south of the Cambridge campus.",
+    "question": "What is the circumference of Harvard Stadium?",
+    "answer": "Approximately 2,000 feet"
+  },
+  {
+    "id": "5a1c6968b4fb5d0018714619",
+    "pool": "unanswerable",
+    "title": "Jacksonville,_Florida",
+    "context": "The area of the modern city of Jacksonville has been inhabited for thousands of years. On Black Hammock Island in the national Timucuan Ecological and Historic Preserve, a University of North Florida team discovered some of the oldest remnants of pottery in the United States, dating to 2500 BC. In the 16th century, the beginning of the historical era, the region was inhabited by the Mocama, a coastal subgroup of the Timucua people. At the time of contact with Europeans, all Mocama villages in present-day Jacksonville were part of the powerful chiefdom known as the Saturiwa, centered around the mouth of the St. Johns River. One early map shows a village called Ossachite at the site of what is now downtown Jacksonville; this may be the earliest recorded name for that area.",
+    "question": "What I lent to the team of northern University students discover pottery?",
+    "answer": "Pottery with geometric patterns"
+  },
+  {
+    "id": "5a1c8c34b4fb5d00187146b4",
+    "pool": "unanswerable",
+    "title": "Jacksonville,_Florida",
+    "context": "Like much of the south Atlantic region of the United States, Jacksonville has a humid subtropical climate (K\u00f6ppen Cfa), with mild weather during winters and hot and humid weather during summers. Seasonal rainfall is concentrated in the warmest months from May through September, while the driest months are from November through April. Due to Jacksonville's low latitude and coastal location, the city sees very little cold weather, and winters are typically mild and sunny. Summers can be hot and wet, and summer thunderstorms with torrential but brief downpours are common.",
+    "question": "Was city has a tropical climate?",
+    "answer": "Jacksonville"
+  },
+  {
+    "id": "5a1c8aedb4fb5d00187146a0",
+    "pool": "unanswerable",
+    "title": "Jacksonville,_Florida",
+    "context": "According to the United States Census Bureau, the city has a total area of 874.3 square miles (2,264 km2), making Jacksonville the largest city in land area in the contiguous United States; of this, 86.66% (757.7 sq mi or 1,962 km2) is land and ; 13.34% (116.7 sq mi or 302 km2) is water. Jacksonville surrounds the town of Baldwin. Nassau County lies to the north, Baker County lies to the west, and Clay and St. Johns County lie to the south; the Atlantic Ocean lies to the east, along with the Jacksonville Beaches. The St. Johns River divides the city. The Trout River, a major tributary of the St. Johns River, is located entirely within Jacksonville.",
+    "question": "Was sitting is 874.3 km\u00b2?",
+    "answer": "Yes"
+  },
+  {
+    "id": "5a1c539bb4fb5d00187145fd",
+    "pool": "unanswerable",
+    "title": "Jacksonville,_Florida",
+    "context": "Jacksonville is the largest city by population in the U.S. state of Florida, and the largest city by area in the contiguous United States. It is the county seat of Duval County, with which the city government consolidated in 1968. Consolidation gave Jacksonville its great size and placed most of its metropolitan population within the city limits; with an estimated population of 853,382 in 2014, it is the most populous city proper in Florida and the Southeast, and the 12th most populous in the United States. Jacksonville is the principal city in the Jacksonville metropolitan area, with a population of 1,345,596 in 2010.",
+    "question": "What is the largest metropolitan area in Florida and the Southeast?",
+    "answer": "Jacksonville metropolitan area"
+  },
+  {
+    "id": "5ad24e50d7d075001a428c3b",
+    "pool": "unanswerable",
+    "title": "Economic_inequality",
+    "context": "John Schmitt and Ben Zipperer (2006) of the CEPR point to economic liberalism and the reduction of business regulation along with the decline of union membership as one of the causes of economic inequality. In an analysis of the effects of intensive Anglo-American liberal policies in comparison to continental European liberalism, where unions have remained strong, they concluded \"The U.S. economic and social model is associated with substantial levels of social exclusion, including high levels of income inequality, high relative and absolute poverty rates, poor and unequal educational outcomes, poor health outcomes, and high rates of crime and incarceration. At the same time, the available evidence provides little support for the view that U.S.-style labor-market flexibility dramatically improves labor-market outcomes. Despite popular prejudices to the contrary, the U.S. economy consistently affords a lower level of economic mobility than all the continental European countries for which data is available.\"",
+    "question": "Which set of countries have lower economic mobility than the United States?",
+    "answer": "The United Kingdom"
+  },
+  {
+    "id": "5ad2442bd7d075001a428a3d",
+    "pool": "unanswerable",
+    "title": "Economic_inequality",
+    "context": "In Marxian analysis, capitalist firms increasingly substitute capital equipment for labor inputs (workers) under competitive pressure to reduce costs and maximize profits. Over the long-term, this trend increases the organic composition of capital, meaning that less workers are required in proportion to capital inputs, increasing unemployment (the \"reserve army of labour\"). This process exerts a downward pressure on wages. The substitution of capital equipment for labor (mechanization and automation) raises the productivity of each worker, resulting in a situation of relatively stagnant wages for the working class amidst rising levels of property income for the capitalist class.",
+    "question": "What impact does workers working less have on productivity of a business?",
+    "answer": "It allows for higher output with reduced labor input."
+  },
+  {
+    "id": "5ad262ffd7d075001a4290e4",
+    "pool": "unanswerable",
+    "title": "Economic_inequality",
+    "context": "Economist Joseph Stiglitz presented evidence in 2009 that both global inequality and inequality within countries prevent growth by limiting aggregate demand. Economist Branko Milanovic, wrote in 2001 that, \"The view that income inequality harms growth \u2013 or that improved equality can help sustain growth \u2013 has become more widely held in recent years. ... The main reason for this shift is the increasing importance of human capital in development. When physical capital mattered most, savings and investments were key. Then it was important to have a large contingent of rich people who could save a greater proportion of their income than the poor and invest it in physical capital. But now that human capital is scarcer than machines, widespread education has become the secret to growth.\"",
+    "question": "What did Stiglitz present in 2008 regarding global inequality?",
+    "answer": "Evidence that global inequality limits aggregate demand."
+  },
+  {
+    "id": "5ad266efd7d075001a4291f5",
+    "pool": "unanswerable",
+    "title": "Economic_inequality",
+    "context": "A number of researchers (David Rodda, Jacob Vigdor, and Janna Matlack), argue that a shortage of affordable housing \u2013 at least in the US \u2013 is caused in part by income inequality. David Rodda noted that from 1984 and 1991, the number of quality rental units decreased as the demand for higher quality housing increased (Rhoda 1994:148). Through gentrification of older neighbourhoods, for example, in East New York, rental prices increased rapidly as landlords found new residents willing to pay higher market rate for housing and left lower income families without rental units. The ad valorem property tax policy combined with rising prices made it difficult or impossible for low income residents to keep pace.",
+    "question": "What decreased in number between 1948 and 1991?",
+    "answer": "Quality rental units"
+  },
+  {
+    "id": "5acf8c4b77cf76001a6851bc",
+    "pool": "unanswerable",
+    "title": "University_of_Chicago",
+    "context": "The University of Chicago also maintains facilities apart from its main campus. The university's Booth School of Business maintains campuses in Singapore, London, and the downtown Streeterville neighborhood of Chicago. The Center in Paris, a campus located on the left bank of the Seine in Paris, hosts various undergraduate and graduate study programs. In fall 2010, the University of Chicago also opened a center in Beijing, near Renmin University's campus in Haidian District. The most recent additions are a center in New Delhi, India, which opened in 2014, and a center in Hong Kong which opened in 2015.",
+    "question": "Where does the Paris School Of Business have campuses?",
+    "answer": "Paris"
+  },
+  {
+    "id": "5acfa9b877cf76001a6857a8",
+    "pool": "unanswerable",
+    "title": "University_of_Chicago",
+    "context": "Notable faculty in physics have included the speed of light calculator A. A. Michelson, elementary charge calculator Robert A. Millikan, discoverer of the Compton Effect Arthur H. Compton, the creator of the first nuclear reactor Enrico Fermi, \"the father of the hydrogen bomb\" Edward Teller, \"one of the most brilliant and productive experimental physicists of the twentieth century\" Luis Walter Alvarez, Murray Gell-Mann who introduced the quark, second female Nobel laureate Maria Goeppert-Mayer, the youngest American winner of the Nobel Prize Tsung-Dao Lee, and astrophysicist Subrahmanyan Chandrasekhar.",
+    "question": "Who is known for calculating the speed of nuclear reactions?",
+    "answer": "Enrico Fermi"
+  },
+  {
+    "id": "5acf9f9877cf76001a6855ba",
+    "pool": "unanswerable",
+    "title": "University_of_Chicago",
+    "context": "All Recognized Student Organizations, from the University of Chicago Scavenger Hunt to Model UN, in addition to academic teams, sports club, arts groups, and more are funded by The University of Chicago Student Government. Student Government is made up of graduate and undergraduate students elected to represent members from their respective academic unit. It is led by an Executive Committee, chaired by a President with the assistance of two Vice Presidents, one for Administration and the other for Student Life, elected together as a slate by the student body each spring. Its annual budget is greater than $2 million.",
+    "question": "What is the annual budget for the Scavenger Hunt?",
+    "answer": "$75,000"
+  },
+  {
+    "id": "5acfa29c77cf76001a685669",
+    "pool": "unanswerable",
+    "title": "University_of_Chicago",
+    "context": "Notable alumni in the field of government and politics include the founder of modern community organizing Saul Alinsky, Obama campaign advisor and top political advisor to President Bill Clinton David Axelrod, Attorney General and federal judge Robert Bork, Attorney General Ramsey Clark, Prohibition agent Eliot Ness, Supreme Court Justice John Paul Stevens, Prime Minister of Canada William Lyon Mackenzie King, 11th Prime Minister of Poland Marek Belka, Governor of the Bank of Japan Masaaki Shirakawa, the first female African-American Senator Carol Moseley Braun, United States Senator from Vermont and 2016 Democratic Presidential Candidate Bernie Sanders, and former World Bank President Paul Wolfowitz.",
+    "question": "Who is the Governor of the Bank of Justice?",
+    "answer": "Paul Wolfowitz"
+  },
+  {
+    "id": "5ad40d89604f3c001a4000d4",
+    "pool": "unanswerable",
+    "title": "Yuan_dynasty",
+    "context": "The Central Region, consisting of present-day Hebei, Shandong, Shanxi, the south-eastern part of present-day Inner Mongolia and the Henan areas to the north of the Yellow River, was considered the most important region of the dynasty and directly governed by the Central Secretariat (or Zhongshu Sheng) at Khanbaliq (modern Beijing); similarly, another top-level administrative department called the Bureau of Buddhist and Tibetan Affairs (or Xuanzheng Yuan) held administrative rule over the whole of modern-day Tibet and a part of Sichuan, Qinghai and Kashmir.",
+    "question": " What modern city did Khanbaliq not become?",
+    "answer": "Shanghai"
+  },
+  {
+    "id": "5ad3ffef604f3c001a3ffcb2",
+    "pool": "unanswerable",
+    "title": "Yuan_dynasty",
+    "context": "The Yuan dynasty is considered both a successor to the Mongol Empire and an imperial Chinese dynasty. It was the khanate ruled by the successors of M\u00f6ngke Khan after the division of the Mongol Empire. In official Chinese histories, the Yuan dynasty bore the Mandate of Heaven, following the Song dynasty and preceding the Ming dynasty. The dynasty was established by Kublai Khan, yet he placed his grandfather Genghis Khan on the imperial records as the official founder of the dynasty as Taizu.[b] In the Proclamation of the Dynastic Name (\u300a\u5efa\u570b\u865f\u8a54\u300b), Kublai announced the name of the new dynasty as Great Yuan and claimed the succession of former Chinese dynasties from the Three Sovereigns and Five Emperors to the Tang dynasty.",
+    "question": " Who was Kublai Khan's uncle?",
+    "answer": "M\u00f6ngke Khan"
+  },
+  {
+    "id": "5ad40158604f3c001a3ffd0b",
+    "pool": "unanswerable",
+    "title": "Yuan_dynasty",
+    "context": "Many Han Chinese and Khitan defected to the Mongols to fight against the Jin. Two Han Chinese leaders, Shi Tianze, Liu Heima (\u5289\u9ed1\u99ac, Liu Ni), and the Khitan Xiao Zhala (\u856d\u672d\u524c) defected and commanded the 3 Tumens in the Mongol army. Liu Heima and Shi Tianze served Og\u00f6dei Khan. Liu Heima and Shi Tianxiang led armies against Western Xia for the Mongols. There were 4 Han Tumens and 3 Khitan Tumens, with each Tumen consisting of 10,000 troops. The three Khitan Generals Shimobeidier (\u77f3\u62b9\u5b5b\u8fed\u5152), Tabuyir (\u5854\u4e0d\u5df2\u5152) and Xiaozhacizhizizhongxi (\u856d\u672d\u523a\u4e4b\u5b50\u91cd\u559c) commanded the three Khitan Tumens and the four Han Generals Zhang Rou, Yan Shi, Shi Tianze, and Liu Heima commanded the four Han tumens under Og\u00f6dei Khan.",
+    "question": "Who did the Han Japanese want to help the Mongols fight?",
+    "answer": "The Jin"
+  },
+  {
+    "id": "5ad40639604f3c001a3ffe4d",
+    "pool": "unanswerable",
+    "title": "Yuan_dynasty",
+    "context": "Due to the fact that the bureaucracy was dominated by El Tem\u00fcr, Tugh Tem\u00fcr is known for his cultural contribution instead. He adopted many measures honoring Confucianism and promoting Chinese cultural values. His most concrete effort to patronize Chinese learning was founding the Academy of the Pavilion of the Star of Literature (Chinese: \u594e\u7ae0\u95a3\u5b78\u58eb\u9662), first established in the spring of 1329 and designed to undertake \"a number of tasks relating to the transmission of Confucian high culture to the Mongolian imperial establishment\". The academy was responsible for compiling and publishing a number of books, but its most important achievement was its compilation of a vast institutional compendium named Jingshi Dadian (Chinese: \u7d93\u4e16\u5927\u5178). Tugh Tem\u00fcr supported Zhu Xi's Neo-Confucianism and also devoted himself in Buddhism.",
+    "question": " When did Tugh Temur destroy his academy?",
+    "answer": "1332"
+  },
+  {
+    "id": "5ad4ea425b96ef001a10a626",
+    "pool": "unanswerable",
+    "title": "Immune_system",
+    "context": "When suffering from sleep deprivation, active immunizations may have a diminished effect and may result in lower antibody production, and a lower immune response, than would be noted in a well-rested individual. Additionally, proteins such as NFIL3, which have been shown to be closely intertwined with both T-cell differentiation and our circadian rhythms, can be affected through the disturbance of natural light and dark cycles through instances of sleep deprivation, shift work, etc. As a result, these disruptions can lead to an increase in chronic conditions such as heart disease, chronic pain, and asthma.",
+    "question": "What has a stronger effect during sleep deprivation?",
+    "answer": "Disruption of natural light and dark cycles"
+  },
+  {
+    "id": "5ad49c34ba00c4001a268d9b",
+    "pool": "unanswerable",
+    "title": "Immune_system",
+    "context": "The immune system is a system of many biological structures and processes within an organism that protects against disease. To function properly, an immune system must detect a wide variety of agents, known as pathogens, from viruses to parasitic worms, and distinguish them from the organism's own healthy tissue. In many species, the immune system can be classified into subsystems, such as the innate immune system versus the adaptive immune system, or humoral immunity versus cell-mediated immunity. In humans, the blood\u2013brain barrier, blood\u2013cerebrospinal fluid barrier, and similar fluid\u2013brain barriers separate the peripheral immune system from the neuroimmune system which protects the brain.",
+    "question": "What is not an example of a pathogen?",
+    "answer": "The innate immune system"
+  },
+  {
+    "id": "5ad4f0675b96ef001a10a6e9",
+    "pool": "unanswerable",
+    "title": "Immune_system",
+    "context": "Immunology is strongly experimental in everyday practice but is also characterized by an ongoing theoretical attitude. Many theories have been suggested in immunology from the end of the nineteenth century up to the present time. The end of the 19th century and the beginning of the 20th century saw a battle between \"cellular\" and \"humoral\" theories of immunity. According to the cellular theory of immunity, represented in particular by Elie Metchnikoff, it was cells \u2013 more precisely, phagocytes \u2013 that were responsible for immune responses. In contrast, the humoral theory of immunity, held, among others, by Robert Koch and Emil von Behring, stated that the active immune agents were soluble components (molecules) found in the organism\u2019s \u201chumors\u201d rather than its cells.",
+    "question": "Who was the main detractor of the cellular theory of immunity?",
+    "answer": "Emil von Behring"
+  },
+  {
+    "id": "5ad4b1895b96ef001a109dca",
+    "pool": "unanswerable",
+    "title": "Immune_system",
+    "context": "Inflammation is one of the first responses of the immune system to infection. The symptoms of inflammation are redness, swelling, heat, and pain, which are caused by increased blood flow into tissue. Inflammation is produced by eicosanoids and cytokines, which are released by injured or infected cells. Eicosanoids include prostaglandins that produce fever and the dilation of blood vessels associated with inflammation, and leukotrienes that attract certain white blood cells (leukocytes). Common cytokines include interleukins that are responsible for communication between white blood cells; chemokines that promote chemotaxis; and interferons that have anti-viral effects, such as shutting down protein synthesis in the host cell. Growth factors and cytotoxic factors may also be released. These cytokines and other chemicals recruit immune cells to the site of infection and promote healing of any damaged tissue following the removal of pathogens.",
+    "question": "What chemical keeps immune cells away from the site of infection?",
+    "answer": "Lympho-inhibins"
+  },
+  {
+    "id": "5a3e307f378766001a0024db",
+    "pool": "unanswerable",
+    "title": "Intergovernmental_Panel_on_Climate_Change",
+    "context": "The IPCC does not carry out research nor does it monitor climate related data. Lead authors of IPCC reports assess the available information about climate change based on published sources. According to IPCC guidelines, authors should give priority to peer-reviewed sources. Authors may refer to non-peer-reviewed sources (the \"grey literature\"), provided that they are of sufficient quality. Examples of non-peer-reviewed sources include model results, reports from government agencies and non-governmental organizations, and industry journals. Each subsequent IPCC report notes areas where the science has improved since the previous report and also notes areas where further research is required.",
+    "question": "What is an example of a peer-reviewed resource?",
+    "answer": "Scientific journals"
+  },
+  {
+    "id": "5a3e2f07378766001a0024cd",
+    "pool": "unanswerable",
+    "title": "Intergovernmental_Panel_on_Climate_Change",
+    "context": "The IPCC receives funding through the IPCC Trust Fund, established in 1989 by the United Nations Environment Programme (UNEP) and the World Meteorological Organization (WMO), Costs of the Secretary and of housing the secretariat are provided by the WMO, while UNEP meets the cost of the Depute Secretary. Annual cash contributions to the Trust Fund are made by the WMO, by UNEP, and by IPCC Members; the scale of payments is determined by the IPCC Panel, which is also responsible for considering and adopting by consensus the annual budget. The organisation is required to comply with the Financial Regulations and Rules of the WMO.",
+    "question": "To what trust does the IPCC give funding?",
+    "answer": "the IPCC Trust Fund"
+  },
+  {
+    "id": "5a3e5697378766001a002598",
+    "pool": "unanswerable",
+    "title": "Intergovernmental_Panel_on_Climate_Change",
+    "context": "On 1 February 2007, the eve of the publication of IPCC's major report on climate, a study was published suggesting that temperatures and sea levels have been rising at or above the maximum rates proposed during the last IPCC report in 2001. The study compared IPCC 2001 projections on temperature and sea level change with observations. Over the six years studied, the actual temperature rise was near the top end of the range given by IPCC's 2001 projection, and the actual sea level rise was above the top of the range of the IPCC projection.",
+    "question": "Which projection overstated the rate at which temperatures would rise?",
+    "answer": "IPCC's 2001 projection"
+  },
+  {
+    "id": "5a3e3907378766001a0024ff",
+    "pool": "unanswerable",
+    "title": "Intergovernmental_Panel_on_Climate_Change",
+    "context": "In addition to climate assessment reports, the IPCC is publishing Special Reports on specific topics. The preparation and approval process for all IPCC Special Reports follows the same procedures as for IPCC Assessment Reports. In the year 2011 two IPCC Special Report were finalized, the Special Report on Renewable Energy Sources and Climate Change Mitigation (SRREN) and the Special Report on Managing Risks of Extreme Events and Disasters to Advance Climate Change Adaptation (SREX). Both Special Reports were requested by governments.",
+    "question": "Which organization only has the responsibility for writing climate assessment reports?",
+    "answer": "The Climate Assessment Division"
+  },
+  {
+    "id": "5a8945a43b2508001a72a587",
+    "pool": "unanswerable",
+    "title": "Prime_number",
+    "context": "Prime numbers give rise to two more general concepts that apply to elements of any commutative ring R, an algebraic structure where addition, subtraction and multiplication are defined: prime elements and irreducible elements. An element p of R is called prime element if it is neither zero nor a unit (i.e., does not have a multiplicative inverse) and satisfies the following requirement: given x and y in R such that p divides the product xy, then p divides x or y. An element is irreducible if it is not a unit and cannot be written as a product of two ring elements that are not units. In the ring Z of integers, the set of prime elements equals the set of irreducible elements, which is",
+    "question": "What is one condition that an element p of $ must satisfy in order to be considered a multiplicative inverse?",
+    "answer": "It must multiply with another element to equal the multiplicative identity."
+  },
+  {
+    "id": "5a89128d3b2508001a72a498",
+    "pool": "unanswerable",
+    "title": "Prime_number",
+    "context": "The property of being prime (or not) is called primality. A simple but slow method of verifying the primality of a given number n is known as trial division. It consists of testing whether n is a multiple of any integer between 2 and . Algorithms much more efficient than trial division have been devised to test the primality of large numbers. These include the Miller\u2013Rabin primality test, which is fast but has a small probability of error, and the AKS primality test, which always produces the correct answer in polynomial time but is too slow to be practical. Particularly fast methods are available for numbers of special forms, such as Mersenne numbers. As of January 2016[update], the largest known prime number has 22,338,618 decimal digits.",
+    "question": "As of January 2016 how many primalities does the largest known prime consists of?",
+    "answer": "22,338,618"
+  },
+  {
+    "id": "5a894a483b2508001a72a5ae",
+    "pool": "unanswerable",
+    "title": "Prime_number",
+    "context": "In particular, this norm gets smaller when a number is multiplied by p, in sharp contrast to the usual absolute value (also referred to as the infinite prime). While completing Q (roughly, filling the gaps) with respect to the absolute value yields the field of real numbers, completing with respect to the p-adic norm |\u2212|p yields the field of p-adic numbers. These are essentially all possible ways to complete Q, by Ostrowski's theorem. Certain arithmetic questions related to Q or more general global fields may be transferred back and forth to the completed (or local) fields. This local-global principle again underlines the importance of primes to number theory.",
+    "question": "Completing p with respect to what will produce the field of real numbers?",
+    "answer": "the absolute value"
+  },
+  {
+    "id": "5a89150d3b2508001a72a4a9",
+    "pool": "unanswerable",
+    "title": "Prime_number",
+    "context": "Many questions regarding prime numbers remain open, such as Goldbach's conjecture (that every even integer greater than 2 can be expressed as the sum of two primes), and the twin prime conjecture (that there are infinitely many pairs of primes whose difference is 2). Such questions spurred the development of various branches of number theory, focusing on analytic or algebraic aspects of numbers. Primes are used in several routines in information technology, such as public-key cryptography, which makes use of properties such as the difficulty of factoring large numbers into their prime factors. Prime numbers give rise to various generalizations in other mathematical domains, mainly algebra, such as prime elements and prime ideals.",
+    "question": "What is the name of the supposition that there are infinite pairs of primes whose difference is prime?",
+    "answer": "The Prime Difference Conjecture"
+  },
+  {
+    "id": "5ad2a901d7d075001a429e29",
+    "pool": "unanswerable",
+    "title": "Rhine",
+    "context": "At present, the branches Waal and Nederrijn-Lek discharge to the North Sea, through the former Meuse estuary, near Rotterdam. The river IJssel branch flows to the north and enters the IJsselmeer, formerly the Zuider Zee brackish lagoon; however, since 1932, a freshwater lake. The discharge of the Rhine is divided among three branches: the River Waal (6/9 of total discharge), the River Nederrijn \u2013 Lek (2/9 of total discharge) and the River IJssel (1/9 of total discharge). This discharge distribution has been maintained since 1709, by river engineering works, including the digging of the Pannerdens canal and since the 20th century, with the help of weirs in the Nederrijn river.",
+    "question": "When was the Zuider Zee brackish lagoon discovered?",
+    "answer": "1709"
+  },
+  {
+    "id": "5ad28ea7d7d075001a429a52",
+    "pool": "unanswerable",
+    "title": "Rhine",
+    "context": "Before the St. Elizabeth's flood (1421), the Meuse flowed just south of today's line Merwede-Oude Maas to the North Sea and formed an archipelago-like estuary with Waal and Lek. This system of numerous bays, estuary-like extended rivers, many islands and constant changes of the coastline, is hard to imagine today. From 1421 to 1904, the Meuse and Waal merged further upstream at Gorinchem to form Merwede. For flood protection reasons, the Meuse was separated from the Waal through a lock and diverted into a new outlet called \"Bergse Maas\", then Amer and then flows into the former bay Hollands Diep.",
+    "question": "What year was it when St. Elizabeth flooded part of the North Sea?",
+    "answer": "1420"
+  },
+  {
+    "id": "5ad29f7ed7d075001a429c73",
+    "pool": "unanswerable",
+    "title": "Rhine",
+    "context": "Most of the Rhine's current course was not under the ice during the last Ice Age; although, its source must still have been a glacier. A tundra, with Ice Age flora and fauna, stretched across middle Europe, from Asia to the Atlantic Ocean. Such was the case during the Last Glacial Maximum, ca. 22,000\u201314,000 yr BP, when ice-sheets covered Scandinavia, the Baltics, Scotland and the Alps, but left the space between as open tundra. The loess or wind-blown dust over that tundra, settled in and around the Rhine Valley, contributing to its current agricultural usefulness.",
+    "question": "What flowed through the tundra?",
+    "answer": "The Rhine"
+  },
+  {
+    "id": "5ad28861d7d075001a42993f",
+    "pool": "unanswerable",
+    "title": "Rhine",
+    "context": "The name Rijn, from here on, is used only for smaller streams farther to the north, which together formed the main river Rhine in Roman times. Though they retained the name, these streams no longer carry water from the Rhine, but are used for draining the surrounding land and polders. From Wijk bij Duurstede, the old north branch of the Rhine is called Kromme Rijn (\"Bent Rhine\") past Utrecht, first Leidse Rijn (\"Rhine of Leiden\") and then, Oude Rijn (\"Old Rhine\"). The latter flows west into a sluice at Katwijk, where its waters can be discharged into the North Sea. This branch once formed the line along which the Limes Germanicus were built. During periods of lower sea levels within the various ice ages, the Rhine took a left turn, creating the Channel River, the course of which now lies below the English Channel.",
+    "question": "What streams continue to carry water from the Rhine?",
+    "answer": "Kromme Rijn, Leidse Rijn, and Oude Rijn"
+  },
+  {
+    "id": "5ad03f8077cf76001a686ee7",
+    "pool": "unanswerable",
+    "title": "Scottish_Parliament",
+    "context": "Stage 3 is the final stage of the bill and is considered at a meeting of the whole Parliament. This stage comprises two parts: consideration of amendments to the bill as a general debate, and a final vote on the bill. Opposition members can table \"wrecking amendments\" to the bill, designed to thwart further progress and take up parliamentary time, to cause the bill to fall without a final vote being taken. After a general debate on the final form of the bill, members proceed to vote at Decision Time on whether they agree to the general principles of the final bill.",
+    "question": "\"Wrecking amendments\" are designed to encourage further what?",
+    "answer": "Consideration"
+  },
+  {
+    "id": "5ad026a777cf76001a686bc8",
+    "pool": "unanswerable",
+    "title": "Scottish_Parliament",
+    "context": "Throughout the 1980s and 1990s, demand for a Scottish Parliament grew, in part because the government of the United Kingdom was controlled by the Conservative Party, while Scotland itself elected relatively few Conservative MPs. In the aftermath of the 1979 referendum defeat, the Campaign for a Scottish Assembly was initiated as a pressure group, leading to the 1989 Scottish Constitutional Convention with various organisations such as Scottish churches, political parties and representatives of industry taking part. Publishing its blueprint for devolution in 1995, the Convention provided much of the basis for the structure of the Parliament.",
+    "question": "Demand for a Scottish Parliament declined in what year?",
+    "answer": "1979"
+  },
+  {
+    "id": "5ad044f977cf76001a686f62",
+    "pool": "unanswerable",
+    "title": "Scottish_Parliament",
+    "context": "For the Conservatives, the main disappointment was the loss of Edinburgh Pentlands, the seat of former party leader David McLetchie, to the SNP. McLetchie was elected on the Lothian regional list and the Conservatives suffered a net loss of five seats, with leader Annabel Goldie claiming that their support had held firm. Nevertheless, she too announced she would step down as leader of the party. Cameron congratulated the SNP on their victory but vowed to campaign for the Union in the independence referendum.",
+    "question": "Who was elected on the Lothian global list?",
+    "answer": "David McLetchie"
+  },
+  {
+    "id": "5ad0285977cf76001a686c0c",
+    "pool": "unanswerable",
+    "title": "Scottish_Parliament",
+    "context": "Whilst the permanent building at Holyrood was being constructed, the Parliament's temporary home was the General Assembly Hall of the Church of Scotland on the Royal Mile in Edinburgh. Official photographs and television interviews were held in the courtyard adjoining the Assembly Hall, which is part of the School of Divinity of the University of Edinburgh. This building was vacated twice to allow for the meeting of the Church's General Assembly. In May 2000, the Parliament was temporarily relocated to the former Strathclyde Regional Council debating chamber in Glasgow, and to the University of Aberdeen in May 2002.",
+    "question": "Parliament's temporary home was on the Royal Mills in what area?",
+    "answer": "Old Town"
+  },
+  {
+    "id": "5acfea9277cf76001a68648a",
+    "pool": "unanswerable",
+    "title": "Islamism",
+    "context": "The quick and decisive defeat of the Arab troops during the Six-Day War by Israeli troops constituted a pivotal event in the Arab Muslim world. The defeat along with economic stagnation in the defeated countries, was blamed on the secular Arab nationalism of the ruling regimes. A steep and steady decline in the popularity and credibility of secular, socialist and nationalist politics ensued. Ba'athism, Arab socialism, and Arab nationalism suffered, and different democratic and anti-democratic Islamist movements inspired by Maududi and Sayyid Qutb gained ground.",
+    "question": "What was the defeat of the Arab troops at the hand of the Israeli troops during the Seven-Day War?",
+    "answer": "A humiliating loss."
+  },
+  {
+    "id": "5acfe95877cf76001a686442",
+    "pool": "unanswerable",
+    "title": "Islamism",
+    "context": "Sayyid Abul Ala Maududi was an important early twentieth-century figure in the Islamic revival in India, and then after independence from Britain, in Pakistan. Trained as a lawyer he chose the profession of journalism, and wrote about contemporary issues and most importantly about Islam and Islamic law. Maududi founded the Jamaat-e-Islami party in 1941 and remained its leader until 1972. However, Maududi had much more impact through his writing than through his political organising. His extremely influential books (translated into many languages) placed Islam in a modern context, and influenced not only conservative ulema but liberal modernizer Islamists such as al-Faruqi, whose \"Islamization of Knowledge\" carried forward some of Maududi's key principles.",
+    "question": "When did Maududi leave the Jamaat-e-Islami party?",
+    "answer": "1973"
+  },
+  {
+    "id": "5acfeba077cf76001a6864c5",
+    "pool": "unanswerable",
+    "title": "Islamism",
+    "context": "Another factor in the early 1990s that worked to radicalize the Islamist movement was the Gulf War, which brought several hundred thousand US and allied non-Muslim military personnel to Saudi Arabian soil to put an end to Saddam Hussein's occupation of Kuwait. Prior to 1990 Saudi Arabia played an important role in restraining the many Islamist groups that received its aid. But when Saddam, secularist and Ba'athist dictator of neighboring Iraq, attacked Saudi Arabia (his enemy in the war), western troops came to protect the Saudi monarchy. Islamists accused the Saudi regime of being a puppet of the west.",
+    "question": " Whose occupation of Kuwait did Iraq military personal seek to put an end to?",
+    "answer": "The allied forces'"
+  },
+  {
+    "id": "5acfe40a77cf76001a686392",
+    "pool": "unanswerable",
+    "title": "Islamism",
+    "context": "Islamism, also known as Political Islam (Arabic: \u0625\u0633\u0644\u0627\u0645 \u0633\u064a\u0627\u0633\u064a\u200e isl\u0101m siy\u0101s\u012b), is an Islamic revival movement often characterized by moral conservatism, literalism, and the attempt \"to implement Islamic values in all spheres of life.\" Islamism favors the reordering of government and society in accordance with the Shari'a. The different Islamist movements have been described as \"oscillating between two poles\": at one end is a strategy of Islamization of society through state power seized by revolution or invasion; at the other \"reformist\" pole Islamists work to Islamize society gradually \"from the bottom up\". The movements have \"arguably altered the Middle East more than any trend since the modern states gained independence\", redefining \"politics and even borders\" according to one journalist (Robin Wright).",
+    "question": " What goal does Islamism not have when it comes to society and government?",
+    "answer": "Implementing a progressive income tax system."
+  },
+  {
+    "id": "5ad02de177cf76001a686d17",
+    "pool": "unanswerable",
+    "title": "Imperialism",
+    "context": "The Age of Imperialism, a time period beginning around 1700, saw (generally European) industrializing nations engaging in the process of colonizing, influencing, and annexing other parts of the world in order to gain political power.[citation needed] Although imperialist practices have existed for thousands of years, the term \"Age of Imperialism\" generally refers to the activities of European powers from the early 18th century through to the middle of the 20th century, for example, the \"The Great Game\" in Persian lands, the \"Scramble for Africa\" and the \"Open Door Policy\" in China.",
+    "question": " When did the age of imperialism begin?",
+    "answer": "the early 19th century"
+  },
+  {
+    "id": "5acff36377cf76001a6865f2",
+    "pool": "unanswerable",
+    "title": "Imperialism",
+    "context": "Imperialism is a type of advocacy of empire. Its name originated from the Latin word \"imperium\", which means to rule over large territories. Imperialism is \"a policy of extending a country's power and influence through colonization, use of military force, or other means\". Imperialism has greatly shaped the contemporary world. It has also allowed for the rapid spread of technologies and ideas. The term imperialism has been applied to Western (and Japanese) political and economic dominance especially in Asia and Africa in the 19th and 20th centuries. Its precise meaning continues to be debated by scholars. Some writers, such as Edward Said, use the term more broadly to describe any system of domination and subordination organised with an imperial center and a periphery.",
+    "question": " Imperialism is responsible for the slow spread of what?",
+    "answer": "indigenous cultures"
+  },
+  {
+    "id": "5ad02e3377cf76001a686d34",
+    "pool": "unanswerable",
+    "title": "Imperialism",
+    "context": "During the 20th century, historians John Gallagher (1919\u20131980) and Ronald Robinson (1920\u20131999) constructed a framework for understanding European imperialism. They claim that European imperialism was influential, and Europeans rejected the notion that \"imperialism\" required formal, legal control by one government over another country. \"In their view, historians have been mesmerized by formal empire and maps of the world with regions colored red. The bulk of British emigration, trade, and capital went to areas outside the formal British Empire. Key to their thinking is the idea of empire 'informally if possible and formally if necessary.'\"[attribution needed] Because of the resources made available by imperialism, the world's economy grew significantly and became much more interconnected in the decades before World War I, making the many imperial powers rich and prosperous.",
+    "question": "What grew on a global scale as a result of non-imperialism?",
+    "answer": "Technological advancements"
+  },
+  {
+    "id": "5ad03a8a77cf76001a686e83",
+    "pool": "unanswerable",
+    "title": "Imperialism",
+    "context": "One key figure in the plans for what would come to be known as American Empire, was a geographer named Isiah Bowman. Bowman was the director of the American Geographical Society in 1914. Three years later in 1917, he was appointed to then President Woodrow Wilson's inquiry in 1917. The inquiry was the idea of President Wilson and the American delegation from the Paris Peace Conference. The point of this inquiry was to build a premise that would allow for U.S authorship of a 'new world' which was to be characterized by geographical order. As a result of his role in the inquiry, Isiah Bowman would come to be known as Wilson's geographer. ",
+    "question": " When was Isiah Bowman not appointed to President Wilson's Inquiry?",
+    "answer": "1914"
+  },
+  {
+    "id": "5ad4c99d5b96ef001a10a0a4",
+    "pool": "unanswerable",
+    "title": "Warsaw",
+    "context": "In 1529, Warsaw for the first time became the seat of the General Sejm, permanent from 1569. In 1573 the city gave its name to the Warsaw Confederation, formally establishing religious freedom in the Polish\u2013Lithuanian Commonwealth. Due to its central location between the Commonwealth's capitals of Krak\u00f3w and Vilnius, Warsaw became the capital of the Commonwealth and the Crown of the Kingdom of Poland when King Sigismund III Vasa moved his court from Krak\u00f3w to Warsaw in 1596. In the following years the town expanded towards the suburbs. Several private independent districts were established, the property of aristocrats and the gentry, which were ruled by their own laws. Three times between 1655\u20131658 the city was under siege and three times it was taken and pillaged by the Swedish, Brandenburgian and Transylvanian forces.",
+    "question": "What did the Vilnius formally establish in 1573?",
+    "answer": "Religious freedom in the Polish\u2013Lithuanian Commonwealth."
+  },
+  {
+    "id": "5ad4fd0f5b96ef001a10a89a",
+    "pool": "unanswerable",
+    "title": "Warsaw",
+    "context": "Today, Warsaw has some of the best medical facilities in Poland and East-Central Europe. The city is home to the Children's Memorial Health Institute (CMHI), the highest-reference hospital in all of Poland, as well as an active research and education center. While the Maria Sk\u0142odowska-Curie Institute of Oncology it is one of the largest and most modern oncological institutions in Europe. The clinical section is located in a 10-floor building with 700 beds, 10 operating theatres, an intensive care unit, several diagnostic departments as well as an outpatient clinic. The infrastructure has developed a lot over the past years.",
+    "question": "What have the clinics infrastructure done a lot of over the past years?",
+    "answer": "Expanded its capacity"
+  },
+  {
+    "id": "5ad4d9be5b96ef001a10a3b1",
+    "pool": "unanswerable",
+    "title": "Warsaw",
+    "context": "Exceptional examples of the bourgeois architecture of the later periods were not restored by the communist authorities after the war (like mentioned Kronenberg Palace and Insurance Company Rosja building) or they were rebuilt in socialist realism style (like Warsaw Philharmony edifice originally inspired by Palais Garnier in Paris). Despite that the Warsaw University of Technology building (1899\u20131902) is the most interesting of the late 19th-century architecture. Some 19th-century buildings in the Praga district (the Vistula\u2019s right bank) have been restored although many have been poorly maintained. Warsaw\u2019s municipal government authorities have decided to rebuild the Saxon Palace and the Br\u00fchl Palace, the most distinctive buildings in prewar Warsaw.",
+    "question": "What were the Saxon Palace and Bruhl Palace in prewar Paris?",
+    "answer": "Prominent government buildings"
+  },
+  {
+    "id": "5ad4f1365b96ef001a10a70c",
+    "pool": "unanswerable",
+    "title": "Warsaw",
+    "context": "Demographically, it was the most diverse city in Poland, with significant numbers of foreign-born inhabitants. In addition to the Polish majority, there was a significant Jewish minority in Warsaw. According to Russian census of 1897, out of the total population of 638,000, Jews constituted 219,000 (around 34% percent). Warsaw's prewar Jewish population of more than 350,000 constituted about 30 percent of the city's total population. In 1933, out of 1,178,914 inhabitants 833,500 were of Polish mother tongue. World War II changed the demographics of the city, and to this day there is much less ethnic diversity than in the previous 300 years of Warsaw's history. Most of the modern day population growth is based on internal migration and urbanisation.",
+    "question": "What was there a significant minority of in World War II?",
+    "answer": "Jewish people"
+  },
+  {
+    "id": "5ad3a7ef604f3c001a3feae1",
+    "pool": "unanswerable",
+    "title": "French_and_Indian_War",
+    "context": "C\u00e9loron's expedition force consisted of about 200 Troupes de la marine and 30 Indians. The expedition covered about 3,000 miles (4,800 km) between June and November 1749. It went up the St. Lawrence, continued along the northern shore of Lake Ontario, crossed the portage at Niagara, and followed the southern shore of Lake Erie. At the Chautauqua Portage (near present-day Barcelona, New York), the expedition moved inland to the Allegheny River, which it followed to the site of present-day Pittsburgh. There C\u00e9loron buried lead plates engraved with the French claim to the Ohio Country. Whenever he encountered British merchants or fur-traders, C\u00e9loron informed them of the French claims on the territory and told them to leave.",
+    "question": "How didn't Celeron handle business on trip?",
+    "answer": "By not attempting to negotiate with the British merchants or fur-traders."
+  },
+  {
+    "id": "5ad3a839604f3c001a3feaf1",
+    "pool": "unanswerable",
+    "title": "French_and_Indian_War",
+    "context": "When C\u00e9loron's expedition arrived at Logstown, the Native Americans in the area informed C\u00e9loron that they owned the Ohio Country and that they would trade with the British regardless of the French. C\u00e9loron continued south until his expedition reached the confluence of the Ohio and the Miami rivers, which lay just south of the village of Pickawillany, the home of the Miami chief known as \"Old Briton\". C\u00e9loron threatened \"Old Briton\" with severe consequences if he continued to trade with the British. \"Old Briton\" ignored the warning. Disappointed, C\u00e9loron returned to Montreal in November 1749.",
+    "question": "How didn't Natives in Logstown take Celeron's information?",
+    "answer": "With defiance."
+  },
+  {
+    "id": "5ad3a2e3604f3c001a3fea3e",
+    "pool": "unanswerable",
+    "title": "French_and_Indian_War",
+    "context": "In Europe, the North American theater of the Seven Years' War usually is not given a separate name. The entire international conflict is known as the Seven Years' War. \"Seven Years\" refers to events in Europe, from the official declaration of war in 1756 to the signing of the peace treaty in 1763. These dates do not correspond with the fighting on mainland North America, where the fighting between the two colonial powers was largely concluded in six years, from the Battle of Jumonville Glen in 1754 to the capture of Montreal in 1760.",
+    "question": "How long didn't the fighting last in Seven Years War",
+    "answer": "One year"
+  },
+  {
+    "id": "5ad3b4e8604f3c001a3fed9b",
+    "pool": "unanswerable",
+    "title": "French_and_Indian_War",
+    "context": "Newcastle replaced him in January 1756 with Lord Loudoun, with Major General James Abercrombie as his second in command. Neither of these men had as much campaign experience as the trio of officers France sent to North America. French regular army reinforcements arrived in New France in May 1756, led by Major General Louis-Joseph de Montcalm and seconded by the Chevalier de L\u00e9vis and Colonel Fran\u00e7ois-Charles de Bourlamaque, all experienced veterans from the War of the Austrian Succession. During that time in Europe, on May 18, 1756, England formally declared war on France, which expanded the war into Europe, which was later to be known as the Seven Years' War.",
+    "question": "Who didn't led New France reinforcements in 1756?",
+    "answer": "Lord Loudoun"
+  },
+  {
+    "id": "5ad2877cd7d075001a429915",
+    "pool": "unanswerable",
+    "title": "Force",
+    "context": "where  is the relevant cross-sectional area for the volume for which the stress-tensor is being calculated. This formalism includes pressure terms associated with forces that act normal to the cross-sectional area (the matrix diagonals of the tensor) as well as shear terms associated with forces that act parallel to the cross-sectional area (the off-diagonal elements). The stress tensor accounts for forces that cause all strains (deformations) including also tensile stresses and compressions.:133\u2013134:38-1\u201338-11",
+    "question": "Another term for on-diagonal elements is what?",
+    "answer": "Normal stresses"
+  },
+  {
+    "id": "5ad2772cd7d075001a429541",
+    "pool": "unanswerable",
+    "title": "Force",
+    "context": "The notion \"force\" keeps its meaning in quantum mechanics, though one is now dealing with operators instead of classical variables and though the physics is now described by the Schr\u00f6dinger equation instead of Newtonian equations. This has the consequence that the results of a measurement are now sometimes \"quantized\", i.e. they appear in discrete portions. This is, of course, difficult to imagine in the context of \"forces\". However, the potentials V(x,y,z) or fields, from which the forces generally can be derived, are treated similar to classical position variables, i.e., .",
+    "question": "What used to be described by the Schrodinger equation?",
+    "answer": "The behavior of subatomic particles."
+  },
+  {
+    "id": "5ad25f82d7d075001a428f85",
+    "pool": "unanswerable",
+    "title": "Force",
+    "context": "With modern insights into quantum mechanics and technology that can accelerate particles close to the speed of light, particle physics has devised a Standard Model to describe forces between particles smaller than atoms. The Standard Model predicts that exchanged particles called gauge bosons are the fundamental means by which forces are emitted and absorbed. Only four main interactions are known: in order of decreasing strength, they are: strong, electromagnetic, weak, and gravitational.:2\u201310:79 High-energy particle physics observations made during the 1970s and 1980s confirmed that the weak and electromagnetic forces are expressions of a more fundamental electroweak interaction.",
+    "question": "Particle physics has created a Unique Model to describe what? ",
+    "answer": "the unification of all known forces"
+  },
+  {
+    "id": "5ad28a57d7d075001a4299b2",
+    "pool": "unanswerable",
+    "title": "Force",
+    "context": "The connection between macroscopic nonconservative forces and microscopic conservative forces is described by detailed treatment with statistical mechanics. In macroscopic closed systems, nonconservative forces act to change the internal energies of the system, and are often associated with the transfer of heat. According to the Second law of thermodynamics, nonconservative forces necessarily result in energy transformations within closed systems from ordered to more random conditions as entropy increases.",
+    "question": "Conservative forces are often associated with the transfer of what?",
+    "answer": "Work"
+  }
+]
